@@ -39,7 +39,7 @@ show_categories: 1
 show_tags: 1
 show_email: 0
 show_rss: 1
-show_comments: 1
+show_comments: 0
 show_menu: 1
 fixed_sidebar: 1
 
