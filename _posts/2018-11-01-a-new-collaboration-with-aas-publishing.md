@@ -38,7 +38,7 @@ JOSS is a volunteer, community-run journal and we try to keep our running costs 
 
 - We’re keeping an [open ledger](https://docs.google.com/spreadsheets/d/1Lm76WP0rDXb3Gaze3lBaMgvMo29O2lETvSAIiBMyGDY/edit?usp=sharing) showing the income we’ve received from this partnership, together with a summary of how the money has been spent (e.g. server costs, DOI registration fees with Crossref).
 - Any submission to JOSS that has come via AAS will be clearly marked as such in the review process. We’ll create some additional documentation on [https://joss.readthedocs.io](https://joss.readthedocs.io) explaining what’s going on.
-- Should any of the reviewers not be comfortable with a donation being made to JOSS/NumFOCUS based on their review, we will decline the donation.
+- Should any of the reviewers not be comfortable with a contribution being made to JOSS/NumFOCUS based on their review, we will find an alternative reviewer.
 
 ## What’s next?
 
