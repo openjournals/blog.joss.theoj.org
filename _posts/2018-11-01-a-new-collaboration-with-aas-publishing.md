@@ -26,7 +26,7 @@ In discussions with the AAS team over the past year, we realized there was an op
 
 Under this new collaboration, authors will submit their paper to one of the AAS journals as usual (https://journals.aas.org), if their submission includes a substantial software component to the paper, they can submit a JOSS paper to accompany their AAS submission.
 
-If they decide to do so, the authors will prepare and submit a JOSS paper as usual at [http://joss.theoj.org](http://joss.theoj.org) and the software will go through a standard JOSS review process, in the open on GitHub [https://github.com/openjournals/joss-reviews](https://github.com/openjournals/joss-reviews). As part of this review, it will be made transparent to all parties involved that the JOSS paper is associated with a submission to a AAS publication.
+If they decide to do so, the authors will prepare and submit a JOSS paper as usual at [http://joss.theoj.org](http://joss.theoj.org) and the software will go through the standard JOSS editorial and review process, in the open on GitHub [https://github.com/openjournals/joss-reviews](https://github.com/openjournals/joss-reviews). As part of this review, it will be made transparent to all parties involved that the JOSS paper is associated with a submission to a AAS publication.
 
 We’ll ask the reviewers to acknowledge that this is happening and if they’re not comfortable with this arrangement, then we will find an alternative reviewer.
 
