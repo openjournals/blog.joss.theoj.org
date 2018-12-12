@@ -41,3 +41,7 @@ Mechanical engineer in the School of Mechanical, Industrial, and Manufacturing E
 ### Introducing our editors emeritus
 
 A few of our editors are stepping down from the day-to-day editorial duties at JOSS. [Abigail Cabunoc Mayes](http://acabunoc.github.io/), [Tracy Teal](http://idyll.org/~tracyt/), and [Jake Vanderplas](http://vanderplas.com/) were amongst the earliest members of our editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. [Thomas Leeper](https://thomasleeper.com/) joined us about 15 months ago and in that time edited over 30 submissions for us. Thomas recently changed jobs and his new work environment makes editing for JOSS impractical.
+
+We thank Abby, Tracy, Jake, and Thomas for all their contributions to JOSS!
+
+_Arfon Smith, Editor-in-Chief, Journal of Open Source Software._
