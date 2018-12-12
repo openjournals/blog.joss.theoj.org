@@ -31,28 +31,15 @@ Over the past ~30 months, our [editorial team](http://joss.theoj.org/about#edito
 
 ### Introducing our three new associate editors in chief
 
-### Editors emeritus
+**Lorena A Barba**  
+Associate Professor of Mechanical and Aerospace Engineering at the George Washington University, leading a research group in computational fluid dynamics, computational physics and high-performance computing. Member of the Board for NumFOCUS, a non-profit in support of open-source scientific software.
 
+**Daniel S. Katz**  
+Works on computer, computational, and data research at NCSA, CS, ECE, and the iSchool at the University of Illinois at Urbana-Champaign, and has a strong interest in studying common elements of how research is done by people using software and data.
 
-I want to thank you for being an early editor for JOSS. Having your input and guidance on the journal as we scoped it in the early days was invaluable. 
+**Kyle Niemeyer**  
+Mechanical engineer in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. Computational researcher in combustion, fluid dynamics, and chemical kinetics, with an interest in numerical methods and GPU computing strategies.
 
+### Introducing our editors emeritus
 
-
-
-
-- Thanks to the editors emeritus for their help.
-- Review of JOSS mission and statistics over the past 30 months.
-- Call for editors - what are we looking for?
-- What does the job entail?
-  - Show some of the tooling
-  - Link to the docs on readthedocs etc.
-  - On-boarding with an editorial 'buddy'?
-- Document application process.
-  - Send email to AEiCs with:
-    - Links to open source work/credentials
-    - Any past JOSS reviews they've carried out (not required)
-    - A short summary of their interest in JOSS
-    - Any specialist areas they would be interested editing.
-- Selection process?
-- Anything else?
-  - Perhaps 6 month
+A few of our editors are stepping down from the day-to-day editorial duties at JOSS. Abigail Cabunoc Mayes, Jake Vanderplas, and Tracy Teal we're amongst the earliest members of the JOSS editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. Thomas Leeper joined us about 15 months ago and in that time edited over 30 submissions for us. Thomas recently changed jobs and his new work environment makes editing for JOSS impactical. 
