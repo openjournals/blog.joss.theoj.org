@@ -10,14 +10,20 @@ JOSS is expanding its editorial board in a few key areas and we're opening this 
 
 Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and [my original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html) announcing the journal describes the core motivations for starting the journal.
 
+Over the past ~30 months, our [editorial team](http://joss.theoj.org/about#editorial_board) has handled over 500 submissions to JOSS (444 accepted at the time of writing, 84 under review).
+
 ### How to apply
 
-If you're interested in applying please email me (arfon.smith@gmail.com) with the words `"JOSS editor application"` in the title and include:
+We especially welcome applications from prospective editors who will contribute to the diversity of our board.
+
+If you're interested in applying please email me (<arfon.smith@gmail.com>) with the words `"JOSS editor application"` in the title and include:
 
 - A short statement of interest
 - Your specialist subject domains/research topics
 - Links to any past JOSS reviews you've carried out (not required)
 - A summary of your experience with open source software including any links to projects on e.g. GitHub
+
+✨✨✨ **Please submit your applications before the 18th January, 2019.** ✨✨✨
 
 #### Selection process
 
@@ -25,7 +31,7 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 
 ## Changes to the JOSS editorial board
 
-Over the past ~30 months, our [editorial team](http://joss.theoj.org/about#editorial_board) has handled over 500 submissions to JOSS (444 accepted at the time of writing, 84 under review). It's been a busy couple of years and so we're making a few changes to our editorial team to help us scale our editorial process.
+It's been a busy couple of years and so we're making a few changes to our editorial team to help us scale our editorial process.
 
 ### Introducing our three new associate editors in chief
 
