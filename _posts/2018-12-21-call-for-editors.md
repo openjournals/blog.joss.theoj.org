@@ -10,7 +10,7 @@ JOSS is expanding its editorial board in a few key areas and we're opening this 
 
 Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and [my original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html) announcing the journal describes the core motivations for starting the journal.
 
-Over the past ~30 months, our [editorial team](http://joss.theoj.org/about#editorial_board) has handled over 500 submissions to JOSS (444 accepted at the time of writing, 84 under review).
+Over the past ~30 months, our [editorial team](http://joss.theoj.org/about#editorial_board) has handled over 500 submissions to JOSS (448 accepted at the time of writing, 84 under review).
 
 ### How to apply
 
