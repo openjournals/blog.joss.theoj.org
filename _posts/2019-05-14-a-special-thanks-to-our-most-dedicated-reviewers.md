@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-05-13 00:00
+date: 2019-05-14 00:00
 title:  "A special thanks to our most dedicated reviewers"
 category:
 - announcements
@@ -22,3 +22,5 @@ We also would like to acknowledge with an honorable mention the following JOSS r
 On a not-so-celebratory note, we have to acknowledge the lack of diversity on this list: not a single woman is among the group of highlighted reviewers. We understand that women and members of minority groups are asked to take on an outsized workload when it comes to contributing to diversity in technology. But we nevertheless want to extend an invitation to everyone to join our reviewer team, and let us know how we can support you. We will be happy to connect you with an experienced reviewer who can be your onboarding “buddy.” 
 
 _Lorena A Barba, Associate Editor-in-Chief, Journal of Open Source Software_
+
+_Editor's note: JOSS recently has its third birthday. In the first three years we've published 557 papers (now 570 at the time of writing). I'm hugely grateful to all of our volunteer editors and reviewers for making this experiment in low-cost community-run journals possible! -- Arfon Smith_
