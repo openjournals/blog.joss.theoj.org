@@ -53,7 +53,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "http://blog.joss.theoj.org"
+url: "https://blog.joss.theoj.org"
 baseurl: ""
 
 # Includes
