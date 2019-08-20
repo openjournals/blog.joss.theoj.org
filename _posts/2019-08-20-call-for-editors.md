@@ -26,7 +26,7 @@ Firstly, we especially welcome applications from prospective editors who will co
 
 We're especially interested in growing our editorial team in the following subject areas although all are welcome to apply:
 
-- Applied math
+- Applied mathematics
 - Bioinformatics
 - Computational chemistry
 - Ecology
