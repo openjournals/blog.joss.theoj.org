@@ -8,7 +8,7 @@ category:
 
 Following our [call for editors](https://blog.joss.theoj.org/2018/12/call-for-editors) late last year, once again we're looking to grow our editorial team.
 
-Over the past ~40 months, our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 650 submissions (665 accepted at the time of writing, 101 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing a little over one paper every day, and we see no sign of this demand dropping.
+Over the past ~40 months, our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled close to 800 submissions (665 accepted at the time of writing, 101 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing a little over one paper every day, and we see no sign of this demand dropping.
 
 In order for JOSS to be able to continues to thrive, we think the time is right to bring on another cohort of editors.
 
