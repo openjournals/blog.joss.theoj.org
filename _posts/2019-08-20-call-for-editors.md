@@ -28,6 +28,6 @@ Firstly, we especially welcome applications from prospective editors who will co
 
 ### Selection process
 
-The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Candidates ranking highly will then have a short (~30 minute) phone call/video conference interview with the editor-in-chief(s). Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team.
+The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Candidates ranking highly will then have a short (~30 minute) phone call/video conference interview with the editor-in-chief(s). Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team. You will get an onboarding “buddy” from the experienced editors to help you out during that time.
 
 _Lorena A. Barba, Daniel S. Katz, Kyle E. Niemeyer, Arfon M. Smith_
