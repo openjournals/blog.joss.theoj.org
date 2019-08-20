@@ -24,6 +24,16 @@ More recently we've also written in detail about [the costs related with running
 
 Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, and geographical) of our board.
 
+We're especially interested in growing our editorial team in the following subject areas although all are welcome to apply:
+
+- Applied math
+- Bioinformatics
+- Computational chemistry
+- Ecology
+- Geoscience/earth sciences
+- Material science
+- R/stats
+
 ✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/RtqeU7z9tq8LaiEz9) by 4th September 2019. ✨✨✨
 
 ### Selection process
