@@ -24,7 +24,7 @@ More recently we've also written in detail about [the costs related with running
 
 Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, and geographical) of our board.
 
-✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/RtqeU7z9tq8LaiEz9) by 4th March 2020. ✨✨✨
+✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/JhHQWbnJCkPrnEeG6) by 4th March 2020. ✨✨✨
 
 ## Who can apply
 
