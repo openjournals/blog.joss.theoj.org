@@ -6,11 +6,11 @@ category:
 - announcements
 ---
 
-Once again we're looking to grow our editorial team at JOSS. We're especially interested in recruting editors with expertise in bioinformatics, the social sciences, and R/statistics.
+Once again we're looking to grow our editorial team at JOSS. We're especially interested in recruiting editors with expertise in bioinformatics, the social sciences, and R/statistics.
 
 Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 800 submissions (830 published at the time of writing, 119 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing a little over one paper per day, and we see no sign of this demand dropping.
 
-New editors at JOSS are asked to make a minimum 1-year committment, with additional years possible by mutual consent. As some of our existing editorial team are reaching the end of their term with JOSS, the time is right to bring on another cohort of editors.
+New editors at JOSS are asked to make a minimum 1-year commitment, with additional years possible by mutual consent. As some of our existing editorial team are reaching the end of their term with JOSS, the time is right to bring on another cohort of editors.
 
 ### Background on JOSS
 
