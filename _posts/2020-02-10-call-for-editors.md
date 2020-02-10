@@ -22,13 +22,13 @@ More recently we've also written in detail about [the costs related with running
 
 ## How to apply
 
-Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board. We also are especially interested in candidates with expertise in bioinformatics, the social sciences, and R/statistics.
+Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board.
 
 ✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/JhHQWbnJCkPrnEeG6) by 4th March 2020. ✨✨✨
 
 ## Who can apply
 
-We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review.
+We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, the social sciences, and R/statistics are most neded.
 
 The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia. Unfortunately individuals enrolled in a PhD program are not eligible to serve on the JOSS editorial team.
 
