@@ -16,13 +16,13 @@ In order for JOSS to be able to continues to thrive, we think the time is right 
 
 If you think you might be interested, take a look at our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html), which describes the editorial workflow at JOSS, and also some of the reviews for [recently accepted papers](https://github.com/openjournals/joss-reviews/issues?utf8=%E2%9C%93&q=is%3Aclosed+label%3Aaccepted+). Between these two, you should be able to get a good overview of what editing for JOSS looks like.
 
-Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/), which summarizes our first year, and our Editor-in-Chief's [original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html), which announced the journal and describes some of our core motivations for starting the journal.
+Further background about JOSS can be found in our [PeerJ CS paper](https://peerj.com/articles/cs-147/), which summarizes our first year, and our Editor-in-Chief's [original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html), which announced the journal and describes some of our core motivations for starting the journal.
 
 More recently we've also written in detail about [the costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and [talked about the collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
 
 ## How to apply
 
-Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board.
+Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board. We also are especially interested in candidates with expertise in bioinformatics, the social sciences, and R/statistics.
 
 ✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/JhHQWbnJCkPrnEeG6) by 4th March 2020. ✨✨✨
 
