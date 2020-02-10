@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-Once again we're looking to grow our editorial team at JOSS. We're especially interested in recruiting editors with expertise in bioinformatics, the social sciences, and R/statistics.
+Once again we're looking to grow our editorial team at JOSS. We're especially interested in recruiting editors with expertise in bioinformatics, material science, physics, R/statistics, and the social sciences.
 
 Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 800 submissions (830 published at the time of writing, 119 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing a little over one paper per day, and we see no sign of this demand dropping.
 
@@ -28,7 +28,7 @@ Firstly, we especially welcome applications from prospective editors who will co
 
 ## Who can apply
 
-We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, the social sciences, and R/statistics are most neded.
+We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, material science, physics, R/statistics, and the social science are most neded.
 
 The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia. Unfortunately individuals enrolled in a PhD program are not eligible to serve on the JOSS editorial team.
 
