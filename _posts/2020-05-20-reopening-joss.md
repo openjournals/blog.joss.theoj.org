@@ -28,7 +28,7 @@ We expect that JOSS will be operating in this mode for the foreseeable future wi
 
 During the pause on submissions, we've managed to publish 37 papers from the existing backlog which is an amazing feat in itself 💖. Since instigating the pause however, activity across all of JOSS had been markedly reduced.
 
-!()[https://user-images.githubusercontent.com/4483/82119417-62da3e00-974c-11ea-91a5-a9b3efa3e6a6.png]
+![](https://user-images.githubusercontent.com/4483/82119417-62da3e00-974c-11ea-91a5-a9b3efa3e6a6.png)
 
 JOSS relies upon editors and reviewers volunteering their time to help authors improve their research software in an iterative, open review process. For many of us, JOSS is a labor of love, and an opportunity to give back to the communities we work in.
 
