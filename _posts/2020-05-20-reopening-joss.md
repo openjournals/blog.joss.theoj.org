@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-On March 12th this year we suspended new submissions to JOSS in order to reduce the load on our volunteer team of editors and reviewers. We revisited this suspension in early April and decided to continue with the pause on new submissions for at least another month. Over the past two weeks we've been reviewing our current status and discussing what it might look like to reopen JOSS. 
+On March 12th of this year, we suspended new submissions to JOSS in order to reduce the load on our volunteer team of editors and reviewers. We revisited this suspension in early April and decided to continue the pause on new submissions for at least another month. Over the past two weeks, we've been reviewing our current status and discussing what it might look like to reopen JOSS.
 
 After collecting inputs from the whole JOSS editorial team about their respective availabilities and discussing what to do next **we've decided to reopen JOSS in a "reduced service mode" from May 20th, 2020**.
 
@@ -16,9 +16,9 @@ So what does a "reduced service mode" mean exactly? Essentially this is about ad
 
 We expect that JOSS will be operating in this mode for the foreseeable future with the following new editorial processes:
 
-**Revised (extended) review time:** Before the suspension, we encouraged reviewers to complete their reviews in two weeks. In this reduced service mode, we're asking that reviewers try to complete their reviews in six weeks.
+**Revised (extended) review time:** Before the suspension, we encouraged reviewers to complete their reviews in two weeks. In this reduced service mode, we're asking that reviewers try to complete their reviews in six weeks. Reviewers are of course welcome to complete their reviews faster than this and given the iterative nature of JOSS reviews we still encourage everyone to start their review as soon as possible.
 
-**Reduced paper throughput:** As we reopen JOSS, we plan to limit the number of incoming submissions that will be assigned to a handling editor (and therefore go out for review). In these first few weeks we're planning on limiting this to five papers per week, with papers after this held in a `waitlist` pre-review issue on GitHub. 
+**Reduced paper throughput:** As we reopen JOSS, we plan to limit the number of incoming submissions that will be assigned to a handling editor (and therefore go out for review). In these first few weeks we're planning on a limit of five papers per week, with papers after this held in a first come, first served `waitlist` pre-review issue on GitHub.
 
 **Re-assign the submissions with unavailable editors:** A small number of our editors are currently completely unable to edit due to other commitments. As we reopen JOSS, those papers will be reassigned to a new handling editor.
 
