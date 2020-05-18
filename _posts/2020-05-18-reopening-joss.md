@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-20 00:00
+date: 2020-05-18 00:00
 title:  "Reopening JOSS"
 category:
 - announcements
