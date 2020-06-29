@@ -47,7 +47,7 @@ Submissions under 500 lines of code will be 'desk rejected' with no further revi
 
 **Mandatory "Statement of need" section in JOSS papers**
 
-While this has always been preferred a clear _Statement of need_ section in the JOSS paper is usually extremely valuable in helping the editorial team understand the rationale for the development of the software.
+While this has always been preferred, a clear _Statement of need_ section in the JOSS paper is usually extremely valuable in helping the editorial team understand the rationale for the development of the software.
 
 **A streamlined editorial review process**
 
