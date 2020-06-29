@@ -8,7 +8,7 @@ category:
 
 > tl;dr – JOSS is introducing a new submission criteria whereby submissions under 1000 lines of code will automatically be flagged as potentially being out of scope, and those under 500 lines desk-rejected. This blog post describes some of the motivations behind this decision.
 
-Sometime in 2020, JOSS will publish it's 1000^th^ paper – an incredible achievement by a volunteer team of editors and reviewers.
+Sometime in 2020, JOSS will publish its 1000^th^ paper – an incredible achievement by a volunteer team of editors and reviewers.
 
 Since its inception a little over four years ago, the primary goal of JOSS has always been to provide credit for authors of research software. Quoting from the [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software) announcing JOSS:
 
