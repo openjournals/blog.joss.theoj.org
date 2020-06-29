@@ -43,7 +43,7 @@ Going forward we're going to adopt the following new proceedures:
 
 As part of the [`pre-review`](https://github.com/openjournals/joss-reviews/issues?q=is%3Aissue+is%3Aopen+label%3Apre-review) process, incoming submissions that are under 1000 lines of code^* (LOC) will be automatically flagged as potentially out of scope by the EiC on rotation.
 
-Submissions under 500 lines of code will be 'desk rejected' with no further review.
+Submissions under 500 lines^** of code will be 'desk rejected' with no further review.
 
 **Mandatory "Statement of need" section in JOSS papers**
 
@@ -56,3 +56,4 @@ Rather than each paper being discussed in a separate thread on our editorial mai
 _Arfon M. Smith on behalf of the JOSS editorial team_
 
 ^* In a high-level language such as Python or R. More verbose languages such as Java, C++, Fortran etc. would require more LOC. 
+^** We realize that introducing numerical thresholds may encourage some authors to unnecessarily "pad" their submissions with additional lines of code to meet our thresholds. As reviewers are already asked to judge the standard of the implementation as part of their review we expect that situations like these will usually be flagged during the review.
