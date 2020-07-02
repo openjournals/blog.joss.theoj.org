@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-> tl;dr – JOSS is introducing a new submission criteria whereby submissions under 1000 lines of code will automatically be flagged as potentially being out of scope, and those under 500 lines desk-rejected. This blog post describes some of the motivations behind this decision.
+> tl;dr – JOSS is introducing new submission criteria whereby submissions under 1000 lines of code will automatically be flagged as potentially being out of scope, and those under 500 lines desk-rejected. This blog post describes some of the motivations behind this decision.
 
 Sometime in 2020, JOSS will publish its 1000^th^ paper – an incredible achievement by a volunteer team of editors and reviewers.
 
