@@ -59,5 +59,5 @@ Rather than each paper being discussed in a separate thread on our editorial mai
 
 _Arfon M. Smith on behalf of the JOSS editorial team_
 
-[^1]: In a high-level language such as Python or R. More verbose languages such as Java, C++, Fortran etc. would require more LOC.  
+[^1]: In a high-level language such as Python or R. More verbose languages such as Java, C++, Fortran etc. will require more LOC.  
 [^2]: We realize that introducing numerical thresholds may encourage some authors to unnecessarily "pad" their submissions with additional lines of code to meet our thresholds. As reviewers are already asked to judge the standard of the implementation as part of their review we expect that situations like these will usually be flagged during the review.
