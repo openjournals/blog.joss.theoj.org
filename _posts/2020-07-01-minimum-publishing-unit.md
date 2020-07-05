@@ -55,7 +55,7 @@ Reviewers will be asked if the software under review is a ["substantial scholarl
 
 **A streamlined editorial review process**
 
-Rather than each paper being discussed in a separate thread on our editorial mailing list, JOSS is going to move to a weekly review of papers by our editorial team. Topic editors will be asked to review papers flagged as potentially out of scope in their area and help the EiC team make a decision.
+Rather than each paper that is potentially out-of-scope being discussed in a separate thread on our editorial mailing list, JOSS is going to move to a weekly review of such papers by our editorial team. Topic editors will be asked to review papers flagged as potentially out of scope in their area and help the EiC team make a decision.
 
 _Arfon M. Smith on behalf of the JOSS editorial team_
 
