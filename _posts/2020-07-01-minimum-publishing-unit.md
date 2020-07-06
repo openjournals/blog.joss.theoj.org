@@ -33,11 +33,11 @@ In reality this means that our editorial policy requires us to balance two compe
 
 These two aspects are in tension with each other because while we would dearly love to publish _any and all_ research software in JOSS regardless of size/scale and level of effort to implement, part of building and maintaining that trust with the community relies on us ensuring that our published authors can continue to expect JOSS papers to "count" in their future merit reviews and promotions.
 
-### Updates to our submission requirements and scope-checking proceedures
+### Updates to our submission requirements and scope-checking procedures
 
-Over the past couple of years, as the number of submissions to JOSS has grown, we've found that our existing [submission criteria](https://joss.readthedocs.io/en/latest/submitting.html) and [proceedures for rejecting papers as out of scope](https://joss.readthedocs.io/en/latest/editing.html#rejecting-a-paper) have been taking a significant fraction of our editorial team time. With a volunteer team of editors, it's essential that we use their time carefully and an update to our proceedures for handling scope assessments is long overdue.
+Over the past couple of years, as the number of submissions to JOSS has grown, we've found that our existing [submission criteria](https://joss.readthedocs.io/en/latest/submitting.html) and [protocol for rejecting papers as out of scope](https://joss.readthedocs.io/en/latest/editing.html#rejecting-a-paper) have been taking a significant fraction of our editorial team time. With a volunteer team of editors, it's essential that we use their time carefully and an update to our procedures for handling scope assessments is long overdue.
 
-Going forward we're going to adopt the following new proceedures:
+Going forward we're going to adopt the following new process:
 
 **Automatically flagging small submissions**
 
