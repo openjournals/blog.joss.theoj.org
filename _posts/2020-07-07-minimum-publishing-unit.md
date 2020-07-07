@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-01 00:00
+date: 2020-07-07 00:00
 title:  "Minimum publishing unit"
 category:
 - announcements
