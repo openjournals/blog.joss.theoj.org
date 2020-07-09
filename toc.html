@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+    {% for post in site.posts %}
+    <header class="post-header">
+        <ul>
+            <li><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b, %Y" }}</time></li>
+            {% if site.show_categories == 1 and post.category %}
+                <li class="cats">
+                    {% for category in post.category %}
+                        <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
+                    {% endfor %}
+                </li>
+            {% endif %}
+        </ul>
+        <h1 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h1>
+    </header>
+    {% endfor %}
+</article>
