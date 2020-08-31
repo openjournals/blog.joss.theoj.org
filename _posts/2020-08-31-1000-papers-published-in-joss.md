@@ -32,7 +32,7 @@ It has taken us a little over four years to publish 1000 papers and before pausi
 
 Well over half of all JOSS papers have been cited, and many have been cited [hundreds of times](https://scholar.google.com/scholar?hl=en&as_sdt=0,38&q=source:%22Journal+of+Open+Source+Software%22). 
 
-While not designed for it, JOSS is proving a useful resource for people interested in new research software: JOSS currently receives ~10,000 monthly visitors to the JOSS website and provides language (e.g., [https://joss.theoj.org/papers/in/Python](https://joss.theoj.org/papers/in/Python)) and topic-based (e.g., [https://joss.theoj.org/papers/tagged/Exoplanets](https://joss.theoj.org/papers/tagged/Exoplanets)) search filters and feeds.
+While not designed for it, JOSS is proving a useful resource for people interested in new research software: JOSS currently receives ~10,000 monthly visitors to the journal website and provides language (e.g., [https://joss.theoj.org/papers/in/Python](https://joss.theoj.org/papers/in/Python)) and topic-based (e.g., [https://joss.theoj.org/papers/tagged/Exoplanets](https://joss.theoj.org/papers/tagged/Exoplanets)) search filters and feeds.
 
 ### People are key
 
