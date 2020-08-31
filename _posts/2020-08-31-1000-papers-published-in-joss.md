@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-Today we reached a huge milestone at JOSS – we published our [1000<sup>th</sup> paper](LINK)! JOSS is a developer friendly, free-to-publish, open-access journal for research software packages. Publishing 1000 papers (and reviewing the corresponding 1000 software packages) over the past ~4 years has been no small feat. This achievement has been possible thanks to the efforts of our journal team and community of reviewers who have all given their time to make JOSS a success. We take this opportunity to review some of what we’ve learnt over the past four years and outline some plans for the future.
+Today we reached a huge milestone at JOSS – we published our [1000<sup>th</sup> paper]( https://doi.org/10.21105/joss.02260)! JOSS is a developer friendly, free-to-publish, open-access journal for research software packages. Publishing 1000 papers (and reviewing the corresponding 1000 software packages) over the past ~4 years has been no small feat. This achievement has been possible thanks to the efforts of our journal team and community of reviewers who have all given their time to make JOSS a success. We take this opportunity to review some of what we’ve learnt over the past four years and outline some plans for the future.
 
 ## A brief recap
 
