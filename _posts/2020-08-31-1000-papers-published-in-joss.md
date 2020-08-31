@@ -68,7 +68,7 @@ Over the next year or so, we’re going to be investing resources in a number of
 
 **A major refactor of our editorial bot Whedon:** Whedon is a critical part of our infrastructure but has become hard to maintain, and almost impossible for other projects to reuse. We’re planning to rework Whedon into a [general framework](https://github.com/openjournals/buffy) with a set of reusable modules for common editorial tasks.
 
-**Investments in open source:** JOSS relies upon a small number of open source projects such as Pandoc and pandoc-citeproc to produce scholarly manuscripts (PDFs) and metadata outputs (e.g. Crossref and JATS). We’re going to work with the Pandoc core team to generalize some of the work we’ve done for JOSS into Pandoc core.
+**Investments in open source:** JOSS relies upon a small number of open source projects such as Pandoc and pandoc-citeproc to produce scholarly manuscripts (PDFs) and metadata outputs (e.g., Crossref and JATS). We’re going to work with the Pandoc core team to generalize some of the work we’ve done for JOSS into Pandoc core.
 
 For many of us on the editorial team JOSS is a labor of love, and it has been quite a ride growing JOSS from an experimental new journal to a venue that is publishing more close to 500 papers per year. For those of you who have helped us on this journey by submitting a paper to JOSS or [volunteering to review](https://joss.theoj.org/reviewer-signup.html), _thank you_ ⚡🚀💥.
 
