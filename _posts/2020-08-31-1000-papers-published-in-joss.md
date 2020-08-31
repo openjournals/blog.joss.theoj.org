@@ -36,7 +36,7 @@ While not designed for it, JOSS is proving a useful resource for people interest
 
 ### People are key
 
-Every journal relies upon the expertise, knowledge, and time of their reviewers and JOSS is no different. *925* individuals have contributed reviews for our first 1000 papers, [many having reviewed multiple times](https://gist.github.com/arfon/dfa38f0bbf89617160b350de8bc9f3c4#file-reviewers-md). 
+Every journal relies upon the expertise, knowledge, and time of their reviewers and JOSS is no different. *935* individuals have contributed reviews for our first 1000 papers, [many having reviewed multiple times](https://gist.github.com/arfon/dfa38f0bbf89617160b350de8bc9f3c4#file-reviewers-md). 
 
 <center>
 💖💖💖 THANK YOU 💖💖💖
