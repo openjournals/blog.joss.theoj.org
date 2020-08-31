@@ -74,6 +74,6 @@ For many of us on the editorial team JOSS is a labor of love, and it has been qu
 
 _The JOSS editorial team._
 
-[^1]: [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) &middot; [https://doi.org/10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362) &middot; [http://doi.org/10.5334/jors.242](http://doi.org/10.5334/jors.242)
+[^1]: For example: [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) &middot; [https://doi.org/10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362) &middot; [http://doi.org/10.5334/jors.242](http://doi.org/10.5334/jors.242)
 [^2]: Something hardly any other journals do.  
 [^3]: The JOSS review structure was originally derived from the process developed by the [rOpenSci](https://ropensci.org) community for their software review.
