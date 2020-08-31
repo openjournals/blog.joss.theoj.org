@@ -26,7 +26,7 @@ Something unclear when starting JOSS was whether demand from the research commun
 
 It has taken us a little over four years to publish 1000 papers and before pausing submissions for two months starting in early March 2020 (to give relief to our volunteers during the pandemic), we were projecting to reach this milestone sometime in June this year. It took us a little under a year to publish our [100th paper](https://joss.theoj.org/papers/10.21105/joss.00248), and an additional 8 months to reach our 200th. In that time we’ve grown our editorial board from an [initial group of 10](https://peerj.com/articles/cs-147/#p-2) to [more than 50 today](https://joss.theoj.org/about#editorial_board). 
 
-<img width="961" alt="Screen Shot 2020-08-31 at 19 15 34" src="https://user-images.githubusercontent.com/4483/91752518-5fb17380-ebbe-11ea-9744-7aa1f96f077e.png">
+<img width="961" alt="Screen Shot 2020-08-31 at 19 17 49" src="https://user-images.githubusercontent.com/4483/91752725-ad2de080-ebbe-11ea-8f42-1e880fd8b2b2.png">
 
 ### People are reading and citing JOSS papers
 
