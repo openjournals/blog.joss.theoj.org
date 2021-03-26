@@ -10,7 +10,7 @@ JOSS is continuing to grow, and we are looking to add more editors again. We’r
 
 Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 1800 submissions (1200 published at the time of writing, 170 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing more than one paper per day, and we see no sign of this demand dropping.
 
-New editors at JOSS are asked to make a minimum 1-year commitment, with additional years possible by mutual consent. With some of our existing editorial team reaching the end of their term with JOSS and this increase in submissions, the time is right to bring on another cohort of editors.
+Editors at JOSS make a minimum 1-year commitment, with additional years possible by mutual consent. With some of our existing editorial team reaching the end of their terms with JOSS and this increase in submissions, the time is right to bring on another cohort of editors.
 
 ### Editing for a journal during a pandemic
 
