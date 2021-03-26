@@ -40,10 +40,6 @@ Members of the JOSS editorial team have diverse backgrounds and we welcome JOSS 
 
 The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make recommendations. Highly-ranked candidates will then have a short (~30 minute) phone call/video conference interview with the editor(s)-in-chief. Successful candidates will then join the JOSS editorial team for a probationary period of 3 months before becoming a full member of the editorial team. You will get an onboarding “buddy” from the experienced editors to help you out during that time.
 
-### Selection process
-
-The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Candidates ranking highly will then have a short (~30 minute) phone call/video conference interview with the editor-in-chief(s). Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team.
-
 ### Thanks to our editors who are stepping down
 
 A few of our editors are completing terms and stepping down from editorial duties at JOSS. Lorena A Barba (@labarba), Kathryn Huff (@katyhuff), Karthik Ram (@karthik), and Bruce E. Wilson (@usethedata) have been amazing editors to have on the team and we will miss them very much! 
