@@ -30,7 +30,7 @@ More recently we’ve also written in detail about our commitment to the [Princi
 
 We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, material science, ecology, machine learning & data science, and the social sciences are most needed.
 
-The JOSS editorial team has a diverse background and we welcome JOSS editors from academia, government, and industry. We especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board. We also value having a range of junior and senior editors. Unfortunately individuals enrolled in a PhD program are not eligible to serve on the JOSS editorial team.
+Members of the JOSS editorial team have diverse backgrounds and we welcome JOSS editors from academia, government, and industry. We especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board. We also value having a range of junior and senior editors. Unfortunately individuals enrolled in a PhD program are not eligible to serve on the JOSS editorial team.
 
 ### How to apply
 
