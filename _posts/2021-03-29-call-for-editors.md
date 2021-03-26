@@ -34,7 +34,7 @@ The JOSS editorial team has a diverse background and we welcome JOSS editors fro
 
 ### How to apply
 
-✨✨✨ To apply please fill in this [short form](LINK) by 23 April 2021. ✨✨✨
+✨✨✨ To apply please fill in this [short form](https://forms.gle/c9gis9KKbfemA4gM6) by 23 April 2021. ✨✨✨
 
 ### Selection process
 
