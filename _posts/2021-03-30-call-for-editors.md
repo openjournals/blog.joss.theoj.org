@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-JOSS is continuing to grow, and we are looking to add more editors again. We’re especially interested in recruiting editors with expertise in bioinformatics, material science, ecology, machine learning & data science, and the social sciences.
+JOSS is continuing to grow, and we are looking to add more editors again. We’re especially interested in recruiting editors with expertise in bioinformatics, neuroinformatics/neuroimaging, material science, ecology, machine learning & data science, and the social sciences.
 
 Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 1800 submissions (1200 published at the time of writing, 170 under review) and the demand from the community continues to grow. The last three months have been our busiest yet, with JOSS publishing more than one paper per day, and we see no sign of this demand dropping.
 
@@ -28,7 +28,7 @@ More recently we’ve also written in detail about our commitment to the [Princi
 
 ## Who can apply
 
-We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, material science, ecology, machine learning & data science, and the social sciences are most needed.
+We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review, noting again that editors with expertise in bioinformatics, neuroinformatics/neuroimaging, material science, ecology, machine learning & data science, and the social sciences are most needed.
 
 Members of the JOSS editorial team have diverse backgrounds and we welcome JOSS editors from academia, government, and industry. We especially welcome applications from prospective editors who will contribute to the diversity (ethnic, gender, disciplinary, and geographical) of our board. We also value having a range of junior and senior editors.
 
