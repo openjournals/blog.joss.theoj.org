@@ -36,7 +36,7 @@ Upon successful peer review of the AAS journal article and the JOSS submission, 
 
 JOSS is a volunteer, community-run journal and we try to keep our running costs as [low as possible](http://joss.theoj.org/about#costs). They’re not zero, however, and we’re always making small infrastructure changes to our toolchain that require real money to support development costs. We recognize, though, that adding money into any volunteer project like JOSS is not without risk and so we’re taking a few proactive steps to make the process as transparent as possible:
 
-- We’re keeping an [open ledger](https://docs.google.com/spreadsheets/d/1Lm76WP0rDXb3Gaze3lBaMgvMo29O2lETvSAIiBMyGDY/edit?usp=sharing) showing the income we’ve received from this partnership, together with a summary of how the money has been spent (e.g. server costs, DOI registration fees with Crossref).
+- We’re keeping an [open record](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ9KuVaedIGcAbq6V0Pl3A4PnWC-745xcPjK4UpgjeSuw6WBJ8BsO-lbqpDOGM7cxqQ4JUIyfTH2V8/pubhtml?gid=0&single=true) showing the papers we've jointly reviewed with AAS.
 - Any submission to JOSS that has come via AAS will be clearly marked as such in the review process. We’ll create some additional documentation on [https://joss.readthedocs.io](https://joss.readthedocs.io) explaining what’s going on.
 - Should any of the reviewers not be comfortable with a contribution being made to JOSS/NumFOCUS based on their review, we will find an alternative reviewer.
 
