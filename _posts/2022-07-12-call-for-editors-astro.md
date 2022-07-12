@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-11 00:00
+date: 2022-07-12 00:00
 title:  "Call for editors: Astronomy & Astrophysics"
 category:
 - announcements
