@@ -68,7 +68,7 @@ The MIT, GPL (v3), and BSD 3-Clause licences are still used for the majority of 
 
 <img width="734" alt="Screenshot 2023-05-03 at 11 42 01" src="https://user-images.githubusercontent.com/4483/236423081-e2c2cb7d-17f3-4afa-8655-ac248374ecc3.png">
 
-## Investments in tooling and infrastructure
+## Investments in tooling and infrastructure
 
 JOSS has benefited from the kind support of the Alfred P. Sloan Foundation, the Gordon and Betty Moore Foundation, and a number of small development grants from NumFOCUS. This support has enabled JOSS to invest further in our infrastructure and tooling, highlights of which we describe below:
 
