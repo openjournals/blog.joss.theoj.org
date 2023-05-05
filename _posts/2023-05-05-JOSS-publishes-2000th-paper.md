@@ -6,7 +6,7 @@ category:
 - announcements
 ---
 
-This week JOSS reached a big milestone – publishing our 2000th paper! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
+This week JOSS reached a big milestone – publishing our [2000th paper](https://joss.theoj.org/papers/10.21105/joss.05220)! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
 
 ## Submission summary
 
