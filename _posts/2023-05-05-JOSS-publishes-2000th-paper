@@ -30,27 +30,25 @@ Note that JOSS closed for submissions between March 2020 and May 2020 due to the
 
 In July 2020 we introduced a test for ‘substantial scholarly effort’ for all new submissions. You can read more about the motivations for this in our blog post but this clearly had an effect on our rejection rate both in the pre-review stage, and during/post review.
 
+<img width="920" alt="Screenshot_2023-05-03_at_11_27_29" src="https://user-images.githubusercontent.com/4483/236413997-99652832-6e6b-43aa-b000-8677b094bfa6.png">
+
 We now reject between 15-30% papers at the pre-review stage, and around 5% during the actual review process itself (note this is in line with our goal to provide a constructive review process, improving submissions such that they can be accepted).
 
 ### Authorship
 
 JOSS is no longer dominated by single author submissions. In fact, we are seeing some evidence of more authors per submission with the fraction of submissions with more than 5 authors now approaching 25%.
 
+<img width="812" alt="Screenshot 2023-05-03 at 11 28 53" src="https://user-images.githubusercontent.com/4483/236414177-964ed03b-8392-4597-bf88-72fd4f449a53.png">
 
+![Authors](https://user-images.githubusercontent.com/4483/236414321-286860bb-50f0-4787-a664-60fa7d4fe6f0.png)
 
+### Citations
 
-
-
-
-
-
-
-Citations
 More than 200 papers have been cited > 20 times. About a third have never been cited. A few papers have  been cited *a lot*: Welcome to the Tidyverse currently has nearly 6000 citations.
 
 Papers in more than 6000 different venues have cited a JOSS paper, with the most common being bioRxiv, JOSS, Scientific Reports, Monthly Notices of the Royal Astronomical Society, and The Astrophysical Journal.
- 
-Editor and Reviewer statistics
+
+### Editor and Reviewer statistics
 
 2093 unique individuals have contributed reviews for the 2000 papers published in JOSS, including 8 amazing individuals who have contributed more than 10 reviews each! 
 
@@ -58,17 +56,18 @@ JOSS currently has 77 editors, 6 of whom are track Editors-in-Chief, and one Edi
 
 Unfortunately, our reviews are getting slower. We’re not really sure why, but this has been a noticeable change from our earlier days. Our average time now spent in review is approaching four months, whereas pre-COVID it was under three.
 
-Software statistics
+### Software statistics
 
 JOSS reviews are primarily about the software, and so it would be remiss of us not to talk about that. Python is still the #1 language for JOSS submissions, used in part for well over half of published papers (~1200 out of 2000). R is #2 at 445 submissions, and C++ #3 (although of course C++ and C may be used together with another language).
 
 Anecdotally we're seeing an increase in the number of authors submitting to JOSS to declare their submission ‘ready for use’ or declaring as a v1.0 release. This is also potentially supported by the peak close to 0 days between the repository creation date and the submission to JOSS. 
 
-
+<img width="711" alt="Screenshot 2023-05-04 at 10 29 00" src="https://user-images.githubusercontent.com/4483/236414496-5155bb28-6f59-49ce-b3a8-6e6c4a488331.png">
 
 The MIT, GPL (v3), and BSD 3-Clause licences are still used for the majority of submissions.
 
-Investments in tooling and infrastructure
+### Investments in tooling and infrastructure
+
 JOSS has benefited from the kind support of the Alfred P. Sloan Foundation, the Gordon and Betty Moore Foundation, and a number of small development grants from NumFOCUS. This support has enabled JOSS to invest further in our infrastructure and tooling, highlights of which we describe below:
 
 Editorialbot for all of your GitHub-based review needs
