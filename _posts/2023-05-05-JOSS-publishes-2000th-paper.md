@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-15-05 01:00
+date: 2023-05-05 01:00
 title:  "JOSS publishes 2000th paper"
 category:
 - announcements
