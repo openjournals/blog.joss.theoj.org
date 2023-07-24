@@ -46,7 +46,7 @@ Like many journals, as the number of submissions grows, JOSS has had to scale it
 
 ### Automation is important
 
-A big part of keeping our costs low is automating common editorial tasks where at all possible. The primary interface for editors managing JOSS submissions is a GitHub issue with the assistance of our [Whedon bot](https://github.com/openjournals/whedon-api) who supports a [broad collection of common editorial tasks](https://joss.readthedocs.io/en/latest/whedon.html). Other than having reviewers, editors and authors read papers, Pandoc-generated proofs _are the final version_, and no additional copy editing is done before a paper is published. PDF proofs and Crossref metadata are [generated automatically](https://github.com/openjournals/joss-reviews/issues/2180#issuecomment-646568350) by Whedon, and when the time comes, deposited with Crossref and published [automatically too](https://github.com/openjournals/joss-reviews/issues/2180#issuecomment-646569439).
+A big part of keeping our costs low is automating common editorial tasks where at all possible. The primary interface for editors managing JOSS submissions is a GitHub issue with the assistance of our [Whedon bot](https://github.com/openjournals/whedon-api) who supports a [broad collection of common editorial tasks](https://joss.readthedocs.io/en/latest/editorial_bot.html). Other than having reviewers, editors and authors read papers, Pandoc-generated proofs _are the final version_, and no additional copy editing is done before a paper is published. PDF proofs and Crossref metadata are [generated automatically](https://github.com/openjournals/joss-reviews/issues/2180#issuecomment-646568350) by Whedon, and when the time comes, deposited with Crossref and published [automatically too](https://github.com/openjournals/joss-reviews/issues/2180#issuecomment-646569439).
 
 <img width="966" alt="Screen Shot 2020-08-24 at 08 50 57" src="https://user-images.githubusercontent.com/4483/91291776-75bdcf00-e78d-11ea-9f96-cad8c501e758.png">
 
@@ -56,7 +56,7 @@ When starting JOSS, we thought that automation could be a big part of how things
 
 JOSS is committed to providing a high-quality service to the community at no cost for authors or readers ([Diamond/Platinum Open Access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA)). We’re transparent [about our operating costs](https://joss.theoj.org/about#costs) and have written about [cost models for operating an online open journal](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal).
 
-While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://moore.org), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
+While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://www.moore.org), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
 
 ## To the future! 
 
@@ -70,7 +70,7 @@ Over the next year or so, we’re going to be investing resources in a number of
 
 **Investments in open source:** JOSS relies upon a small number of open source projects such as Pandoc and pandoc-citeproc to produce scholarly manuscripts (PDFs) and metadata outputs (e.g., Crossref and JATS). We’re going to work with the Pandoc core team to generalize some of the work we’ve done for JOSS into Pandoc core.
 
-For many of us on the editorial team JOSS is a labor of love, and it has been quite a ride growing JOSS from an experimental new journal to a venue that is publishing more close to 500 papers per year. For those of you who have helped us on this journey by submitting a paper to JOSS or [volunteering to review](https://joss.theoj.org/reviewer-signup.html), _thank you_ ⚡🚀💥.
+For many of us on the editorial team JOSS is a labor of love, and it has been quite a ride growing JOSS from an experimental new journal to a venue that is publishing more close to 500 papers per year. For those of you who have helped us on this journey by submitting a paper to JOSS or [volunteering to review](https://reviewers.joss.theoj.org), _thank you_ ⚡🚀💥.
 
 _The JOSS editorial team._
 
