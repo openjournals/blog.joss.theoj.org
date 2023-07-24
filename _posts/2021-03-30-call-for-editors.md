@@ -2,6 +2,8 @@
 layout: post
 date: 2021-03-30 00:00
 title:  "Call for editors"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -43,5 +45,3 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 ### Thanks to our editors who are stepping down
 
 A few of our editors are completing terms and stepping down from editorial duties at JOSS. Lorena A Barba (@labarba), Kathryn Huff (@katyhuff), Karthik Ram (@karthik), and Bruce E. Wilson (@usethedata) have been amazing editors to have on the team and we will miss them very much! 
-
-_Arfon Smith, Editor-in-Chief, Journal of Open Source Software._

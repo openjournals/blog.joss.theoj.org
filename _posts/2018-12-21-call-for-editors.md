@@ -2,6 +2,8 @@
 layout: post
 date: 2018-12-21 00:00
 title:  "Call for editors"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -49,5 +51,3 @@ Mechanical engineer in the School of Mechanical, Industrial, and Manufacturing E
 A few of our editors are stepping down from the day-to-day editorial duties at JOSS. [Abigail Cabunoc Mayes](http://acabunoc.github.io/), [Tracy Teal](http://idyll.org/~tracyt/), and [Jake Vanderplas](http://vanderplas.com/) were amongst the earliest members of our editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. [Thomas Leeper](https://thomasleeper.com/) and [George Githinji](http://virec-group.org/george-githinji) joined us more recently and between them edited nearly 40 JOSS submissions.
 
 We thank Abby, George, Tracy, Jake, and Thomas for all their contributions to JOSS!
-
-_Arfon Smith, Editor-in-Chief, Journal of Open Source Software._

@@ -2,6 +2,13 @@
 layout: post
 date: 2020-02-10 00:00
 title:  "Call for editors"
+authors:
+- labarba
+- danielskatz
+- kevin-mattheus-moerman
+- kyleniemeyer
+- kthyng
+- arfon
 category:
 - announcements
 ---
@@ -35,5 +42,3 @@ The JOSS editorial team has a diverse background and there is no requirement for
 ### Selection process
 
 The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Highly-ranked candidates will then have a short (~30 minute) phone call/video conference interview with the editor(s)-in-chief. Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team. You will get an onboarding “buddy” from the experienced editors to help you out during that time.
-
-_Lorena A. Barba, Daniel S. Katz, Kevin M. Moerman, Kyle E. Niemeyer, Kristen Thyng, Arfon M. Smith_

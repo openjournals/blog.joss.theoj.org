@@ -2,6 +2,8 @@
 layout: post
 date: 2023-05-05 01:00
 title:  "JOSS publishes 2000th paper"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -88,6 +90,4 @@ Last but not least, we’ve also made a bunch of small (and not so small) change
 
 Thank you!
 
-Over these seven years of operations, JOSS simply wouldn’t work without the dedicated volunteer editors and reviewers (and of course the authors submitting their work). 
-
-_Arfon Smith (EiC, JOSS) on behalf of the whole editorial team._
+Over these seven years of operations, JOSS simply wouldn’t work without the dedicated volunteer editors and reviewers (and of course the authors submitting their work).

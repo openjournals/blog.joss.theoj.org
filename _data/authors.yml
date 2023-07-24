@@ -1,0 +1,38 @@
+arfon:
+    name: Arfon M. Smith
+    uri: https://orcid.org/0000-0002-3957-2474
+    position: Editor-in-Chief
+danielskatz:
+    name: Daniel S. Katz
+    uri: https://orcid.org/0000-0001-5934-7525
+    position: Associate Editor-in-Chief Computer science, Information Science, and Mathematics
+dfm:
+    name: Dan Foreman-Mackey
+    uri: http://dfm.io
+    position: Associate Editor-in-Chief Astronomy, Astrophysics, and Space Sciences
+gkthiruvathukal:
+    name: George K. Thiruvathukal
+    uri: https://gkt.cs.luc.edu
+    position: Associate Editor-in-Chief Data Science, Artificial Intelligence, and Machine Learning
+katyhuff:
+    name: Kathryn Huff
+    position: Editor Emeritus
+kevin-mattheus-moerman:
+    name: Kevin M. Moerman
+    uri: https://kevinmoerman.org
+    position: Associate Editor-in-Chief Biomedical Engineering, Biosciences, Chemistry, and Materials
+kthyng:
+    name: Kristen Thyng
+    uri: http://kristenthyng.com
+    position: Associate Editor-in-Chief Earth Sciences and Ecology
+kyleniemeyer:
+    name: Kyle Niemeyer
+    uri: https://niemeyer-research-group.github.io
+    position: Associate Editor-in-Chief Physics and Engineering
+labarba:
+    name: Lorena A. Barba
+    position: Editor Emeritus
+oliviaguest:
+    name: Olivia Guest
+    uri: https://www.oliviaguest.com
+    position: Associate Editor-in-Chief Social, Behavioral, and Cognitive Sciences

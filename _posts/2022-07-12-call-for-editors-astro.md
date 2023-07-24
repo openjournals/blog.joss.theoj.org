@@ -2,6 +2,8 @@
 layout: post
 date: 2022-07-12 00:00
 title:  "Call for editors: Astronomy & Astrophysics"
+authors:
+- dfm
 category:
 - announcements
 ---
@@ -35,5 +37,3 @@ Members of the JOSS editorial team have diverse backgrounds, and we welcome JOSS
 ### Selection process
 
 The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make recommendations. Highly-ranked candidates will then have a short (~30 minute) phone call/video conference interview with a current editor. Successful candidates will then join the JOSS editorial team for a probationary period of 3 months before becoming a full member of the editorial team. You will get an onboarding “buddy” from the experienced editors to help you out during that time.
-
-_Dan Foreman-Mackey, Topic Editor for Astrophysics, Journal of Open Source Software._
