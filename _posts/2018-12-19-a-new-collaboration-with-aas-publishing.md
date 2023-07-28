@@ -10,7 +10,7 @@ category:
 
 Today we’re starting something new at JOSS: we're collaborating with [American Astronomical Society (AAS) Journals](https://journals.aas.org) to offer software reviews for some of the papers submitted to their journals. As part of this process, AAS Publishing will make a small contribution to our parent organization NumFOCUS to support the running costs of JOSS. We’re excited about raising the standard of research software in astronomy and astrophysics, and want to use this blog post as an opportunity to give a little background on the collaboration and how we plan to operate.
 
-Ever since I [announced JOSS](http://arfon.org/announcing-the-journal-of-open-source-software/) back in May of 2016, I’ve always been clear that the primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software. Raising the bar on the expected quality of research software has always been a strong motivation for the journal too.
+Ever since I [announced JOSS](https://www.arfon.org/announcing-the-journal-of-open-source-software) back in May of 2016, I’ve always been clear that the primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software. Raising the bar on the expected quality of research software has always been a strong motivation for the journal too.
 
 After 30 months, with over 500 JOSS submissions (448 published at the time of writing) by more than 400 amazing volunteers, I think it’s safe to say it’s working[^1]. One of my favorite things about working on JOSS is watching authors, reviewers, and editors all working together to improve a piece of software. Some of my favorite comments from the past couple of years:
 

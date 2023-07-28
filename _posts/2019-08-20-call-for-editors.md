@@ -21,7 +21,7 @@ In order for JOSS to be able to continues to thrive, we think the time is right 
 
 If you think you might be interested, take a look at our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html) which describes the editorial workflow at JOSS and also some of the reviews for [recently accepted papers](https://github.com/openjournals/joss-reviews/issues?utf8=%E2%9C%93&q=is%3Aclosed+label%3Aaccepted+). Between these two, you should be able to get a good overview of what editing for JOSS looks like.
 
-Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and our Editor-in-Chief's [original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html) announcing the journal describes some of the core motivations for starting the journal.
+Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and our Editor-in-Chief's [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software) announcing the journal describes some of the core motivations for starting the journal.
 
 More recently we've also written in detail about [the costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal) and [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling).
 
