@@ -24,7 +24,7 @@ Editing for JOSS is a regular task, but not one that takes a huge amount of time
 
 If you think you might be interested, take a look at our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html), which describes the editorial workflow at JOSS, and also some of the reviews for [recently accepted papers](https://github.com/openjournals/joss-reviews/issues?utf8=✓&q=is%3Aclosed+label%3Aaccepted+). Between these two, you should be able to get a good overview of what editing for JOSS looks like.
 
-Further background about JOSS can be found in our [PeerJ CS paper](https://peerj.com/articles/cs-147/), which summarizes our first year, and our Editor-in-Chief’s [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software), which announced the journal and describes some of our core motivations for starting the journal.
+Further background about JOSS can be found in our [PeerJ CS paper](https://doi.org/10.7717/peerj-cs.147), which summarizes our first year, and our Editor-in-Chief’s [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software), which announced the journal and describes some of our core motivations for starting the journal.
 
 More recently we’ve also written in detail about our commitment to the [Principles of Open Scholarly Infrastructure](https://blog.joss.theoj.org/2021/02/JOSS-POSI) the [costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and talked about the [collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
 
@@ -45,3 +45,10 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 ### Thanks to our editors who are stepping down
 
 A few of our editors are completing terms and stepping down from editorial duties at JOSS. Lorena A Barba (@labarba), Kathryn Huff (@katyhuff), Karthik Ram (@karthik), and Bruce E. Wilson (@usethedata) have been amazing editors to have on the team and we will miss them very much! 
+
+## References
+
+Smith A. Announcing The Journal of Open Source Software - Arfon Smith. Published online May 5, 2016. Accessed July 12, 2022. <a href="https://www.arfon.org/announcing-the-journal-of-open-source-software">https://www.arfon.org/announcing-the-journal-of-open-source-software</a>
+
+Smith AM, Niemeyer KE, Katz DS, et al. Journal of Open Source Software (JOSS): design and first-year review. <i>PeerJ Computer Science</i>. 2018;4:e147. doi:<a href="https://doi.org/10.7717/peerj-cs.147">10.7717/peerj-cs.147</a>
+
