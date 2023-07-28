@@ -58,7 +58,7 @@ When starting JOSS, we thought that automation could be a big part of how things
 
 JOSS is committed to providing a high-quality service to the community at no cost for authors or readers ([Diamond/Platinum Open Access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA)). We’re transparent [about our operating costs](https://joss.theoj.org/about#costs) and have written about [cost models for operating an online open journal](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal).
 
-While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://moore.org), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
+While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://www.moore.org/), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
 
 ## To the future! 
 
