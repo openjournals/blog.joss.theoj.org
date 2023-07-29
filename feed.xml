@@ -80,7 +80,7 @@ layout: null
       {% endfor %}
 
       {% if post.category %}
-        <category term="{{ post.category | xml_escape }}" />
+        <category term="{{ post.category | first }}" />
       {% elsif post.categories %}
         {% for category in post.categories %}
           <category term="{{ category | xml_escape }}" />
