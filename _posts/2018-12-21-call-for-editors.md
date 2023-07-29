@@ -43,11 +43,11 @@ Associate Professor of Mechanical and Aerospace Engineering at the George Washin
 [**Daniel S. Katz**](http://danielskatz.org/)  
 Works on computer, computational, and data research at NCSA, CS, ECE, and the iSchool at the University of Illinois at Urbana-Champaign, and has a strong interest in studying common elements of how research is done by people using software and data.
 
-[**Kyle Niemeyer**](http://kyleniemeyer.com/)  
+[**Kyle Niemeyer**](https://niemeyer-research-group.github.io)  
 Mechanical engineer in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. Computational researcher in combustion, fluid dynamics, and chemical kinetics, with an interest in numerical methods and GPU computing strategies.
 
 ### Introducing our editors emeritus
 
-A few of our editors are stepping down from the day-to-day editorial duties at JOSS. [Abigail Cabunoc Mayes](http://acabunoc.github.io/), [Tracy Teal](http://idyll.org/~tracyt/), and [Jake Vanderplas](http://vanderplas.com/) were amongst the earliest members of our editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. [Thomas Leeper](https://thomasleeper.com/) and [George Githinji](http://virec-group.org/george-githinji) joined us more recently and between them edited nearly 40 JOSS submissions.
+A few of our editors are stepping down from the day-to-day editorial duties at JOSS. [Abigail Cabunoc Mayes](http://acabunoc.github.io/), Tracy Teal, and [Jake Vanderplas](http://vanderplas.com/) were amongst the earliest members of our editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. [Thomas Leeper](https://thomasleeper.com/) and [George Githinji](http://virec-group.org/george-githinji) joined us more recently and between them edited nearly 40 JOSS submissions.
 
 We thank Abby, George, Tracy, Jake, and Thomas for all their contributions to JOSS!
