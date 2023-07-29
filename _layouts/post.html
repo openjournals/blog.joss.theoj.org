@@ -15,6 +15,9 @@ layout: default
                 </li>
                 {% endif %}
             {% endif %}
+            {% if page.doi %}
+            <li class="cats"><a href="{{ page.doi | prepend: 'https://doi.org/' }}">{{ page.doi | prepend: 'DOI: ' }}</a></li>
+            {% endif %}
         </ul>
         <h2 itemprop="name headline">{{ page.title }}</h2>
         <h3>

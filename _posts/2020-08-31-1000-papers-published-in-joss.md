@@ -2,6 +2,7 @@
 layout: post
 date: 2020-08-31 00:00
 title:  "1000 papers published in JOSS"
+doi: 10.59349/f5bpw-zg251
 authors:
 - arfon
 category:

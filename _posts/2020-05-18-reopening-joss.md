@@ -2,6 +2,7 @@
 layout: post
 date: 2020-05-18 00:00
 title:  "Reopening JOSS"
+doi: 10.59349/4tz9w-yq369
 authors:
 - arfon
 category:
@@ -24,7 +25,7 @@ We expect that JOSS will be operating in this mode for the foreseeable future wi
 
 **Re-assign the submissions with unavailable editors:** A small number of our editors are currently completely unable to edit due to other commitments. As we reopen JOSS, those papers will be reassigned to a new handling editor.
 
-**Growing our editorial team:** Back on February, we issued a [call for new editors](https://blog.joss.theoj.org/2020/02/call-for-editors) which received an excellent response. Over the coming weeks we will begin on-boarding new editors to help grow the capacity of JOSS.
+**Growing our editorial team:** Back on February, we issued a [call for new editors](https://doi.org/10.59349/k5yqv-7hj89) which received an excellent response. Over the coming weeks we will begin on-boarding new editors to help grow the capacity of JOSS.
 
 ### What this means for JOSS
 

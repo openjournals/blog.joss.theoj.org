@@ -2,6 +2,7 @@
 layout: post
 date: 2022-12-08 00:00
 title:  "Call for editors"
+doi: 10.59349/a42d9-fst44
 authors: 
 - dfm
 - oliviaguest

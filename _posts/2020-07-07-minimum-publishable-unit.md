@@ -2,6 +2,7 @@
 layout: post
 date: 2020-07-07 00:00
 title:  "Minimum publishable unit"
+doi: 10.59349/dfy0f-3y061
 authors: 
 - arfon
 category:

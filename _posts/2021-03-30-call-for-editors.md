@@ -2,6 +2,7 @@
 layout: post
 date: 2021-03-30 00:00
 title:  "Call for editors"
+doi: 10.59349/50wbn-s3618
 authors:
 - arfon
 category:
@@ -16,7 +17,7 @@ Editors at JOSS make a minimum 1-year commitment, with additional years possible
 
 ### Editing for a journal during a pandemic
 
-After a pause on submissions in early 2020, JOSS has been open for submissions during most of the pandemic. We recognize that making time for volunteer commitments such as JOSS is especially challenging at this time and are [taking steps](https://blog.joss.theoj.org/2020/05/reopening-joss) to reduce the load on authors, editors, and reviewers and continually striving to find the right balance between accommodating the very real challenges many of us now face in our daily lives, and providing a service to the research software community.
+After a pause on submissions in early 2020, JOSS has been open for submissions during most of the pandemic. We recognize that making time for volunteer commitments such as JOSS is especially challenging at this time and are [taking steps](https://doi.org/10.59349/4tz9w-yq369) to reduce the load on authors, editors, and reviewers and continually striving to find the right balance between accommodating the very real challenges many of us now face in our daily lives, and providing a service to the research software community.
 
 Editing for JOSS is a regular task, but not one that takes a huge amount of time. JOSS editors are most effective if they are able to check in on their submissions a couple of times per week. Our goal is that a JOSS editor handles about three submissions at any one time making for about 25 submissions per year. 
 
@@ -26,7 +27,7 @@ If you think you might be interested, take a look at our [editorial guide](https
 
 Further background about JOSS can be found in our [PeerJ CS paper](https://doi.org/10.7717/peerj-cs.147), which summarizes our first year, and our Editor-in-Chief’s [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software), which announced the journal and describes some of our core motivations for starting the journal.
 
-More recently we’ve also written in detail about our commitment to the [Principles of Open Scholarly Infrastructure](https://blog.joss.theoj.org/2021/02/JOSS-POSI) the [costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and talked about the [collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
+More recently we’ve also written in detail about our commitment to the [Principles of Open Scholarly Infrastructure](https://doi.org/10.59349/m5h23-pjs71) the [costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and talked about the [collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
 
 ## Who can apply
 

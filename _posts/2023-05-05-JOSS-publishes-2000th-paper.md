@@ -2,6 +2,7 @@
 layout: post
 date: 2023-05-05 01:00
 title:  "JOSS publishes 2000th paper"
+doi: 10.59349/zh4g1-q7e26
 authors:
 - arfon
 category:
@@ -30,7 +31,7 @@ Note that JOSS closed for submissions between March 2020 and May 2020 due to the
 
 **Submission scope and rejections**
 
-In July 2020 [we introduced](https://blog.joss.theoj.org/2020/07/minimum-publishable-unit) a test for ‘substantial scholarly effort’ for all new submissions. You can read more about the motivations for this in our [blog post](https://blog.joss.theoj.org/2020/07/minimum-publishable-unit) but this clearly had an effect on our rejection rate both in the pre-review stage, and during/post review.
+In July 2020 [we introduced](https://doi.org/10.59349/dfy0f-3y061) a test for ‘substantial scholarly effort’ for all new submissions. You can read more about the motivations for this in our [blog post](https://doi.org/10.59349/dfy0f-3y061) but this clearly had an effect on our rejection rate both in the pre-review stage, and during/post review.
 
 <img width="920" alt="Screenshot_2023-05-03_at_11_27_29" src="https://user-images.githubusercontent.com/4483/236413997-99652832-6e6b-43aa-b000-8677b094bfa6.png">
 
