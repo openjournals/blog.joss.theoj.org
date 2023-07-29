@@ -2,13 +2,15 @@
 layout: post
 date: 2018-12-19 00:00
 title:  "A new collaboration with AAS publishing"
+authors:
+- arfon
 category:
 - announcements
 ---
 
 Today we’re starting something new at JOSS: we're collaborating with [American Astronomical Society (AAS) Journals](https://journals.aas.org) to offer software reviews for some of the papers submitted to their journals. As part of this process, AAS Publishing will make a small contribution to our parent organization NumFOCUS to support the running costs of JOSS. We’re excited about raising the standard of research software in astronomy and astrophysics, and want to use this blog post as an opportunity to give a little background on the collaboration and how we plan to operate.
 
-Ever since I [announced JOSS](http://arfon.org/announcing-the-journal-of-open-source-software/) back in May of 2016, I’ve always been clear that the primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software. Raising the bar on the expected quality of research software has always been a strong motivation for the journal too.
+Ever since I [announced JOSS](https://www.arfon.org/announcing-the-journal-of-open-source-software) back in May of 2016, I’ve always been clear that the primary purpose of a JOSS paper is to enable citation credit to be given to authors of research software. Raising the bar on the expected quality of research software has always been a strong motivation for the journal too.
 
 After 30 months, with over 500 JOSS submissions (448 published at the time of writing) by more than 400 amazing volunteers, I think it’s safe to say it’s working[^1]. One of my favorite things about working on JOSS is watching authors, reviewers, and editors all working together to improve a piece of software. Some of my favorite comments from the past couple of years:
 
@@ -43,7 +45,5 @@ JOSS is a volunteer, community-run journal and we try to keep our running costs 
 ## What’s next?
 
 Honestly, I’m not exactly sure. At this point, I consider this collaboration with AAS an experiment in sustainability and an opportunity to extend the reach of JOSS to a new audience. The JOSS review is designed to improve the quality of the software submitted, and increasingly I believe JOSS represents a badge of quality that has value in the wider community. Collaborating with AAS on this project is our first attempt at exploring this.
-
-_Arfon Smith, Editor-in-Chief, Journal of Open Source Software._
 
 [^1]: If you’d like more information about how JOSS works then our paper describing the first year is available here: [https://doi.org/10.7717/peerj-cs.147](https://doi.org/10.7717/peerj-cs.147)

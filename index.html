@@ -16,6 +16,17 @@ layout: default
             {% endif %}
         </ul>
         <h2 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
+        <h3>
+            {% for au in post.authors %}
+                {% assign author = site.data.authors[au] %}
+                {%- if author.uri -%}
+                <a href="{{ author.uri }}">{{ author.name }}</a>
+                {%- else -%}
+                {{ author.name }}
+                {%- endif -%}
+                {% unless forloop.last %}, {% endunless -%}
+            {% endfor %}
+        </h3>
     </header>
 
     <div class="post-content">

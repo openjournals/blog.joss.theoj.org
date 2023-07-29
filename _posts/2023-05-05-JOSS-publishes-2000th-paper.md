@@ -2,6 +2,8 @@
 layout: post
 date: 2023-05-05 01:00
 title:  "JOSS publishes 2000th paper"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -88,6 +90,10 @@ Last but not least, we’ve also made a bunch of small (and not so small) change
 
 Thank you!
 
-Over these seven years of operations, JOSS simply wouldn’t work without the dedicated volunteer editors and reviewers (and of course the authors submitting their work). 
+Over these seven years of operations, JOSS simply wouldn’t work without the dedicated volunteer editors and reviewers (and of course the authors submitting their work).
 
-_Arfon Smith (EiC, JOSS) on behalf of the whole editorial team._
+## References
+
+Höllig J, Kulbach C, Thoma S. TSInterpret: A Python Package for the Interpretability of Time Series Classification. <i>Journal of Open Source Software</i>. 2023;8(85):5220. doi:<a href="https://doi.org/10.21105/joss.05220">10.21105/joss.05220</a>
+
+Wickham H, Averick M, Bryan J, et al. Welcome to the Tidyverse. <i>Journal of Open Source Software</i>. 2019;4(43):1686. doi:<a href="https://doi.org/10.21105/joss.01686">10.21105/joss.01686</a>

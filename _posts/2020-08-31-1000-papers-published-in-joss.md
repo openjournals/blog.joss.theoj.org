@@ -2,6 +2,8 @@
 layout: post
 date: 2020-08-31 00:00
 title:  "1000 papers published in JOSS"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -56,7 +58,7 @@ When starting JOSS, we thought that automation could be a big part of how things
 
 JOSS is committed to providing a high-quality service to the community at no cost for authors or readers ([Diamond/Platinum Open Access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA)). We’re transparent [about our operating costs](https://joss.theoj.org/about#costs) and have written about [cost models for operating an online open journal](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal).
 
-While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://www.moore.org), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
+While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://www.moore.org/), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
 
 ## To the future! 
 
@@ -71,8 +73,6 @@ Over the next year or so, we’re going to be investing resources in a number of
 **Investments in open source:** JOSS relies upon a small number of open source projects such as Pandoc and pandoc-citeproc to produce scholarly manuscripts (PDFs) and metadata outputs (e.g., Crossref and JATS). We’re going to work with the Pandoc core team to generalize some of the work we’ve done for JOSS into Pandoc core.
 
 For many of us on the editorial team JOSS is a labor of love, and it has been quite a ride growing JOSS from an experimental new journal to a venue that is publishing more close to 500 papers per year. For those of you who have helped us on this journey by submitting a paper to JOSS or [volunteering to review](https://reviewers.joss.theoj.org), _thank you_ ⚡🚀💥.
-
-_The JOSS editorial team._
 
 [^1]: For example: [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) &middot; [https://doi.org/10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362) &middot; [http://doi.org/10.5334/jors.242](http://doi.org/10.5334/jors.242)
 [^2]: Something hardly any other journals do.  

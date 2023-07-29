@@ -2,6 +2,8 @@
 layout: post
 date: 2020-05-18 00:00
 title:  "Reopening JOSS"
+authors:
+- arfon
 category:
 - announcements
 ---
@@ -33,5 +35,3 @@ During the pause on submissions, we've managed to publish 37 papers from the exi
 JOSS relies upon editors and reviewers volunteering their time to help authors improve their research software in an iterative, open review process. For many of us, JOSS is a labor of love, and an opportunity to give back to the communities we work in.
 
 While we can never know exactly how the COVID-19 pandemic is affecting every JOSS author, editor, and reviewer, we hope that with these changes to our editorial processes we have found the right balance between accommodating the very real challenges many of us now face in our daily lives, and providing a service to the research software community.
-
-_Arfon M. Smith on behalf of the JOSS editorial team_

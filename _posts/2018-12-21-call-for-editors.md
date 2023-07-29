@@ -2,13 +2,15 @@
 layout: post
 date: 2018-12-21 00:00
 title:  "Call for editors"
+authors:
+- arfon
 category:
 - announcements
 ---
 
 JOSS is expanding its editorial board and we're opening this opportunity to the open source research software community at large. If you think you might be interested, take a look at our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html) which describes the editorial workflow at JOSS and also some of the reviews for [recently accepted papers](https://github.com/openjournals/joss-reviews/issues?utf8=%E2%9C%93&q=is%3Aclosed+label%3Aaccepted+). Between these two, you should be able to get a good overview of what editing for JOSS looks like.
 
-Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and [my original blog post](http://arfon.org/announcing-the-journal-of-open-source-software/index.html) announcing the journal describes the core motivations for starting the journal.
+Further background about JOSS can be found in our [PeerJ paper](https://peerj.com/articles/cs-147/) which summarizes our first year and [my original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software) announcing the journal describes the core motivations for starting the journal.
 
 Over the past ~30 months, our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled over 500 submissions to JOSS (448 accepted at the time of writing, 84 under review).
 
@@ -49,5 +51,3 @@ Mechanical engineer in the School of Mechanical, Industrial, and Manufacturing E
 A few of our editors are stepping down from the day-to-day editorial duties at JOSS. [Abigail Cabunoc Mayes](http://acabunoc.github.io/), [Tracy Teal](http://idyll.org/~tracyt/), and [Jake Vanderplas](http://vanderplas.com/) were amongst the earliest members of our editorial team and have been a huge positive influence on JOSS: their input and guidance on the journal as we scoped it in the early days was invaluable. [Thomas Leeper](https://thomasleeper.com/) and [George Githinji](http://virec-group.org/george-githinji) joined us more recently and between them edited nearly 40 JOSS submissions.
 
 We thank Abby, George, Tracy, Jake, and Thomas for all their contributions to JOSS!
-
-_Arfon Smith, Editor-in-Chief, Journal of Open Source Software._

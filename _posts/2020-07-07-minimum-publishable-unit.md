@@ -2,6 +2,8 @@
 layout: post
 date: 2020-07-07 00:00
 title:  "Minimum publishable unit"
+authors: 
+- arfon
 category:
 - announcements
 ---
@@ -56,8 +58,6 @@ Reviewers will be asked if the software under review is a ["substantial scholarl
 **A streamlined editorial review process**
 
 Rather than each paper that is potentially out-of-scope being discussed in a separate thread on our editorial mailing list, JOSS is going to move to a weekly review of such papers by our editorial team. Topic editors will be asked to review papers flagged as potentially out of scope in their area and help the EiC team make a decision.
-
-_Arfon M. Smith on behalf of the JOSS editorial team_
 
 [^1]: In a high-level language such as Python or R. More verbose languages such as Java, C++, Fortran etc. will require more LOC.  
 [^2]: We realize that introducing numerical thresholds may encourage some authors to unnecessarily "pad" their submissions with additional lines of code to meet our thresholds. As reviewers are already asked to judge the standard of the implementation as part of their review we expect that situations like these will usually be flagged during the review.
