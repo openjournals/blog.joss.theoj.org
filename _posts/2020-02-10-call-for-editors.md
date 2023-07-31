@@ -26,7 +26,7 @@ If you think you might be interested, take a look at our [editorial guide](https
 
 Further background about JOSS can be found in our [PeerJ CS paper](https://doi.org/10.7717/peerj-cs.147), which summarizes our first year, and our Editor-in-Chief's [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software), which announced the journal and describes some of our core motivations for starting the journal.
 
-More recently we've also written in detail about [the costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and [talked about the collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
+More recently we've also written in detail about [the costs related with running JOSS](https://doi.org/10.59349/g4fz2-1cr36), [scaling our editorial processes](https://doi.org/10.59349/gsrcb-qsd74), and [talked about the collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
 
 ## How to apply
 
@@ -46,4 +46,10 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 
 ## References
 
+Smith A. Announcing The Journal of Open Source Software - Arfon Smith. Published online May 5, 2016. Accessed December 19, 2018. <a href="https://www.arfon.org/announcing-the-journal-of-open-source-software">https://www.arfon.org/announcing-the-journal-of-open-source-software</a>
+
 Smith AM, Niemeyer KE, Katz DS, et al. Journal of Open Source Software (JOSS): design and first-year review. <i>PeerJ Computer Science</i>. 2018;4:e147. doi:<a href="https://doi.org/10.7717/peerj-cs.147">10.7717/peerj-cs.147</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Cost models for running an online open journal. Published online June 4, 2019. doi:<a href="https://doi.org/10.59349/g4fz2-1cr36">10.59349/g4fz2-1cr36</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Scaling the Journal of Open Source Software (JOSS). Published online July 8, 2019. doi:<a href="https://doi.org/10.59349/gsrcb-qsd74">10.59349/gsrcb-qsd74</a>

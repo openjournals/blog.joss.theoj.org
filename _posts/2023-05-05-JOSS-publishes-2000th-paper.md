@@ -9,7 +9,7 @@ category:
 - announcements
 ---
 
-This week JOSS reached a big milestone – publishing our [2000th paper](https://joss.theoj.org/papers/10.21105/joss.05220)! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
+This week JOSS reached a big milestone – publishing our [2000th paper](https://doi.org/10.21105/joss.05220)! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
 
 ## Submission summary
 
@@ -96,5 +96,7 @@ Over these seven years of operations, JOSS simply wouldn’t work without the de
 ## References
 
 Höllig J, Kulbach C, Thoma S. TSInterpret: A Python Package for the Interpretability of Time Series Classification. <i>Journal of Open Source Software</i>. 2023;8(85):5220. doi:<a href="https://doi.org/10.21105/joss.05220">10.21105/joss.05220</a>
+
+Smith AM. Minimum publishable unit. Published online July 7, 2020. doi:<a href="https://doi.org/10.59349/dfy0f-3y061">10.59349/dfy0f-3y061</a>
 
 Wickham H, Averick M, Bryan J, et al. Welcome to the Tidyverse. <i>Journal of Open Source Software</i>. 2019;4(43):1686. doi:<a href="https://doi.org/10.21105/joss.01686">10.21105/joss.01686</a>

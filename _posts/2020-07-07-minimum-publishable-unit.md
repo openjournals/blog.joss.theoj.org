@@ -62,3 +62,7 @@ Rather than each paper that is potentially out-of-scope being discussed in a sep
 
 [^1]: In a high-level language such as Python or R. More verbose languages such as Java, C++, Fortran etc. will require more LOC.  
 [^2]: We realize that introducing numerical thresholds may encourage some authors to unnecessarily "pad" their submissions with additional lines of code to meet our thresholds. As reviewers are already asked to judge the standard of the implementation as part of their review we expect that situations like these will usually be flagged during the review.
+
+## References
+
+Smith A. Announcing The Journal of Open Source Software - Arfon Smith. Published online May 5, 2016. Accessed July 7, 2020. <a href="https://www.arfon.org/announcing-the-journal-of-open-source-software">https://www.arfon.org/announcing-the-journal-of-open-source-software</a>

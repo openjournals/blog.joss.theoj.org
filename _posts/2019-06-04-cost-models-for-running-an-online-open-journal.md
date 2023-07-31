@@ -2,6 +2,7 @@
 layout: post
 date: 2019-06-04 00:00
 title:  "Cost models for running an online open journal"
+doi: 10.59349/g4fz2-1cr36
 authors:
 - danielskatz
 - labarba
@@ -72,3 +73,7 @@ This would lead to a valuation of the work required per paper of about $1,300 (e
 If we were a for-profit organization, we would also add a profit margin. While 10% is considered a good profit margin in many industries, 30-35% is more common in scholarly publishing. This would still only lead to an APC of about $140/paper.
 
 Existing publishers and professional societies might consider adopting an online and [open infrastructure like JOSS’s](https://github.com/openjournals/joss) to reduce their costs. In any event, JOSS will continue to be openly accessible and free to publish.
+
+## References
+
+McNutt M. “Plan S” falls short for society publishers—and for the researchers they serve. <i>Proc Natl Acad Sci USA</i>. 2019;116(7):2400-2403. doi:<a href="https://doi.org/10.1073/pnas.1900359116">10.1073/pnas.1900359116</a>

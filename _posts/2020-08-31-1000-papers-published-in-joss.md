@@ -45,7 +45,7 @@ Every journal relies upon the expertise, knowledge, and time of their reviewers 
 💖💖💖 THANK YOU 💖💖💖
 </center>
 
-Like many journals, as the number of submissions grows, JOSS has had to scale its [human processes](https://blog.joss.theoj.org/2019/07/scaling). Over the past few years we’ve added many more editors and [associate editors-in-chief](https://blog.joss.theoj.org/2018/12/call-for-editors#introducing-our-three-new-associate-editors-in-chief) to enable papers to be handled efficiently by the editorial team. Simultaneously, we’ve developed our editorial robot [_Whedon_](https://github.com/openjournals/whedon-api) from being an occasional assistant during the review process to being the backbone of the whole JOSS editorial process. 
+Like many journals, as the number of submissions grows, JOSS has had to scale its [human processes](https://doi.org/10.59349/gsrcb-qsd74). Over the past few years we’ve added many more editors and [associate editors-in-chief](https://doi.org/10.59349/546tr-5p719) to enable papers to be handled efficiently by the editorial team. Simultaneously, we’ve developed our editorial robot [_Whedon_](https://github.com/openjournals/whedon-api) from being an occasional assistant during the review process to being the backbone of the whole JOSS editorial process. 
 
 ### Automation is important
 
@@ -57,7 +57,7 @@ When starting JOSS, we thought that automation could be a big part of how things
 
 ### Financial support
 
-JOSS is committed to providing a high-quality service to the community at no cost for authors or readers ([Diamond/Platinum Open Access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA)). We’re transparent [about our operating costs](https://joss.theoj.org/about#costs) and have written about [cost models for operating an online open journal](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal).
+JOSS is committed to providing a high-quality service to the community at no cost for authors or readers ([Diamond/Platinum Open Access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA)). We’re transparent [about our operating costs](https://joss.theoj.org/about#costs) and have written about [cost models for operating an online open journal](https://doi.org/10.59349/g4fz2-1cr36).
 
 While JOSS’ operating costs are modest, we’ve benefited from the support of a number of organizations including [NumFOCUS](http://numfocus.org) (the ‘[Open Journals](https://github.com/openjournals/governance)’ organization is a sponsored project of NumFOCUS), the [Gordon and Betty Moore Foundation](https://www.moore.org/), and the [Alfred P. Sloan Foundation](https://sloan.org). It’s also possible to [donate to JOSS](https://numfocus.org/donate-to-joss) if you would like to support us financially.
 
@@ -78,3 +78,21 @@ For many of us on the editorial team JOSS is a labor of love, and it has been qu
 [^1]: For example: [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) &middot; [https://doi.org/10.1109/MS.2020.2973362](https://doi.org/10.1109/MS.2020.2973362) &middot; [http://doi.org/10.5334/jors.242](http://doi.org/10.5334/jors.242)
 [^2]: Something hardly any other journals do.  
 [^3]: The JOSS review structure was originally derived from the process developed by the [rOpenSci](https://ropensci.org) community for their software review.
+
+## References
+
+Anzt H, Cojean T, Chen YC, et al. Ginkgo: A high performance numerical linear algebra library. <i>JOSS</i>. 2020;5(52):2260. doi:<a href="https://doi.org/10.21105/joss.02260">10.21105/joss.02260</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Scaling the Journal of Open Source Software (JOSS). Published online July 8, 2019. doi:<a href="https://doi.org/10.59349/gsrcb-qsd74">10.59349/gsrcb-qsd74</a>
+
+Smith AM. Call for editors. Published online December 21, 2018. doi:<a href="https://doi.org/10.59349/546tr-5p719">10.59349/546tr-5p719</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Cost models for running an online open journal. Published online June 4, 2019. doi:<a href="https://doi.org/10.59349/g4fz2-1cr36">10.59349/g4fz2-1cr36</a>
+
+Smith A. Chatops-Driven Publishing | Arfon Smith. Published online February 28, 2019. Accessed August 31, 2020. <a href="https://www.arfon.org/chatops-driven-publishing">https://www.arfon.org/chatops-driven-publishing</a>
+
+Jiménez RC, Kuzak M, Alhamdoosh M, et al. Four simple recommendations to encourage best practices in research software. <i>F1000Res</i>. 2017;6:876. doi:<a href="https://doi.org/10.12688/f1000research.11407.1">10.12688/f1000research.11407.1</a>
+
+Cohen J, Katz DS, Barker M, Chue Hong N, Haines R, Jay C. The Four Pillars of Research Software Engineering. <i>IEEE Softw</i>. 2021;38(1):97-105. doi:<a href="https://doi.org/10.1109/MS.2020.2973362">10.1109/MS.2020.2973362</a>
+
+Katz DS, Druskat S, Haines R, Jay C, Struck A. The State of Sustainable Research Software: Learning from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1). <i>JORS</i>. 2019;7(1):11. doi:<a href="https://doi.org/10.5334/jors.242">10.5334/jors.242</a>
