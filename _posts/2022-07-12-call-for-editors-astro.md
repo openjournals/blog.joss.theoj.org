@@ -2,6 +2,7 @@
 layout: post
 date: 2022-07-12 00:00
 title:  "Call for editors: Astronomy & Astrophysics"
+doi: 10.59349/75pe3-6sc57
 authors:
 - dfm
 category:
@@ -20,9 +21,9 @@ If you think you might be interested, take a look at our [editorial guide](https
 
 Further background about JOSS can be found in our [PeerJ CS paper](https://doi.org/10.7717/peerj-cs.147), which summarizes our first year, and our Editor-in-Chief’s [original blog post](https://www.arfon.org/announcing-the-journal-of-open-source-software), which announced the journal and describes some of our core motivations for starting the journal.
 
-More recently we’ve also written in detail about our commitment to the [Principles of Open Scholarly Infrastructure](https://blog.joss.theoj.org/2021/02/JOSS-POSI) the [costs related with running JOSS](https://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), [scaling our editorial processes](https://blog.joss.theoj.org/2019/07/scaling), and talked about the [collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
+More recently we’ve also written in detail about our commitment to the [Principles of Open Scholarly Infrastructure](https://doi.org/10.59349/m5h23-pjs71) the [costs related with running JOSS](https://doi.org/10.59349/g4fz2-1cr36), [scaling our editorial processes](https://doi.org/10.59349/gsrcb-qsd74), and talked about the [collaborative peer review that JOSS promotes](https://www.youtube.com/watch?v=niRiyaErqwQ).
 
-Of specific interest to this call, we also have [a collaboration with the American Astronomical Society (AAS) Journals](https://blog.joss.theoj.org/2018/12/a-new-collaboration-with-aas-publishing) to provide a parallel review for submissions with a significant software component.
+Of specific interest to this call, we also have [a collaboration with the American Astronomical Society (AAS) Journals](https://doi.org/10.59349/wj1gg-tsg49) to provide a parallel review for submissions with a significant software component.
 
 ## Who can apply
 
@@ -43,3 +44,11 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 Smith A. Announcing The Journal of Open Source Software - Arfon Smith. Published online May 5, 2016. Accessed July 12, 2022. <a href="https://www.arfon.org/announcing-the-journal-of-open-source-software">https://www.arfon.org/announcing-the-journal-of-open-source-software</a>
 
 Smith AM, Niemeyer KE, Katz DS, et al. Journal of Open Source Software (JOSS): design and first-year review. <i>PeerJ Computer Science</i>. 2018;4:e147. doi:<a href="https://doi.org/10.7717/peerj-cs.147">10.7717/peerj-cs.147</a>
+
+Katz DS, Smith AM, Niemeyer K, Huff K, Barba LA. JOSS’s Commitment to the Principles of Open Scholarly Infrastructure. Published online February 14, 2021. doi:<a href="https://doi.org/10.59349/m5h23-pjs71">10.59349/m5h23-pjs71</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Cost models for running an online open journal. Published online June 4, 2019. doi:<a href="https://doi.org/10.59349/g4fz2-1cr36">10.59349/g4fz2-1cr36</a>
+
+Katz DS, Barba LA, Niemeyer K, Smith AM. Scaling the Journal of Open Source Software (JOSS). Published online July 8, 2019. doi:<a href="https://doi.org/10.59349/gsrcb-qsd74">10.59349/gsrcb-qsd74</a>
+
+Smith AM. A new collaboration with AAS publishing. Published online December 19, 2018. doi:<a href="https://doi.org/10.59349/wj1gg-tsg49">10.59349/wj1gg-tsg49</a>

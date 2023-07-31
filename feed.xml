@@ -63,7 +63,12 @@ layout: null
       <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post_title }}" />
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</updated>
-      <id>{{ post.id | absolute_url | xml_escape }}</id>
+      {% if post.doi %}
+      {% assign id = post.doi | prepend: 'https://doi.org/' %}
+      {% else %}
+      {% assign id = post.id | absolute_url | xml_escape %}
+      {% endif %}
+      <id>{{ id }}</id>
       {% assign excerpt_only = post.feed.excerpt_only | default: site.feed.excerpt_only %}
       {% unless excerpt_only %}
         <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}"><![CDATA[{{ post.content | strip }}]]></content>

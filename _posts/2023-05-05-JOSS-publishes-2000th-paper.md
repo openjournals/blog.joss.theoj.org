@@ -2,13 +2,14 @@
 layout: post
 date: 2023-05-05 01:00
 title:  "JOSS publishes 2000th paper"
+doi: 10.59349/zh4g1-q7e26
 authors:
 - arfon
 category:
 - announcements
 ---
 
-This week JOSS reached a big milestone – publishing our [2000th paper](https://joss.theoj.org/papers/10.21105/joss.05220)! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
+This week JOSS reached a big milestone – publishing our [2000th paper](https://doi.org/10.21105/joss.05220)! It also happens to be our 7th birthday, and we thought we’d take this opportunity to review our submission stats from the last few years, discuss some of the changes to JOSS we’ve made of late, and reflect on some of the challenges we have faced as a journal.
 
 ## Submission summary
 
@@ -30,7 +31,7 @@ Note that JOSS closed for submissions between March 2020 and May 2020 due to the
 
 **Submission scope and rejections**
 
-In July 2020 [we introduced](https://blog.joss.theoj.org/2020/07/minimum-publishable-unit) a test for ‘substantial scholarly effort’ for all new submissions. You can read more about the motivations for this in our [blog post](https://blog.joss.theoj.org/2020/07/minimum-publishable-unit) but this clearly had an effect on our rejection rate both in the pre-review stage, and during/post review.
+In July 2020 [we introduced](https://doi.org/10.59349/dfy0f-3y061) a test for ‘substantial scholarly effort’ for all new submissions. You can read more about the motivations for this in our [blog post](https://doi.org/10.59349/dfy0f-3y061) but this clearly had an effect on our rejection rate both in the pre-review stage, and during/post review.
 
 <img width="920" alt="Screenshot_2023-05-03_at_11_27_29" src="https://user-images.githubusercontent.com/4483/236413997-99652832-6e6b-43aa-b000-8677b094bfa6.png">
 
@@ -95,5 +96,7 @@ Over these seven years of operations, JOSS simply wouldn’t work without the de
 ## References
 
 Höllig J, Kulbach C, Thoma S. TSInterpret: A Python Package for the Interpretability of Time Series Classification. <i>Journal of Open Source Software</i>. 2023;8(85):5220. doi:<a href="https://doi.org/10.21105/joss.05220">10.21105/joss.05220</a>
+
+Smith AM. Minimum publishable unit. Published online July 7, 2020. doi:<a href="https://doi.org/10.59349/dfy0f-3y061">10.59349/dfy0f-3y061</a>
 
 Wickham H, Averick M, Bryan J, et al. Welcome to the Tidyverse. <i>Journal of Open Source Software</i>. 2019;4(43):1686. doi:<a href="https://doi.org/10.21105/joss.01686">10.21105/joss.01686</a>

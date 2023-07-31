@@ -2,6 +2,7 @@
 layout: post
 date: 2018-12-19 00:00
 title:  "A new collaboration with AAS publishing"
+doi: 10.59349/wj1gg-tsg49
 authors:
 - arfon
 category:
@@ -47,3 +48,9 @@ JOSS is a volunteer, community-run journal and we try to keep our running costs 
 Honestly, I’m not exactly sure. At this point, I consider this collaboration with AAS an experiment in sustainability and an opportunity to extend the reach of JOSS to a new audience. The JOSS review is designed to improve the quality of the software submitted, and increasingly I believe JOSS represents a badge of quality that has value in the wider community. Collaborating with AAS on this project is our first attempt at exploring this.
 
 [^1]: If you’d like more information about how JOSS works then our paper describing the first year is available here: [https://doi.org/10.7717/peerj-cs.147](https://doi.org/10.7717/peerj-cs.147)
+
+## References
+
+Smith A. Announcing The Journal of Open Source Software - Arfon Smith. Published online May 5, 2016. Accessed December 19, 2018. <a href="https://www.arfon.org/announcing-the-journal-of-open-source-software">https://www.arfon.org/announcing-the-journal-of-open-source-software</a>
+
+Smith AM, Niemeyer KE, Katz DS, et al. Journal of Open Source Software (JOSS): design and first-year review. <i>PeerJ Computer Science</i>. 2018;4:e147. doi:<a href="https://doi.org/10.7717/peerj-cs.147">10.7717/peerj-cs.147</a>

@@ -14,6 +14,9 @@ layout: default
                     {% endfor %}
                 </li>
             {% endif %}
+            {% if post.doi %}
+            <li class="cats"><a href="{{ post.doi | prepend: 'https://doi.org/' }}">{{ post.doi | prepend: 'DOI: ' }}</a></li>
+            {% endif %}
         </ul>
         <h2 itemprop="name headline"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
         <h3>
