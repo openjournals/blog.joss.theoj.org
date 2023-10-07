@@ -28,9 +28,9 @@ Firstly, we especially welcome applications from prospective editors who will co
 
 ## Who can apply
 
-We welcome applications from potential editors with significant experience in one or more of the following areas: open source software, open science, software engineering, peer-review. 
+Applicants should have significant experience in open source software and software engineering, as well as expertise in at least one subject/disciplinary area. Prior experience with peer-review and open science practices are also beneficial.  
 
-The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia.
+We are seeking new editors across all research disciplines. The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia.
 
 ### Selection process
 
