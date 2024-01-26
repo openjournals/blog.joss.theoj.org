@@ -8,7 +8,7 @@ category:
 
 <iframe src="https://podcasters.spotify.com/pod/show/josscast/embed/episodes/Eva-Maxfield-Brown-on-Speakerbox--Open-Source-Speaker-Identification-for-Political-Science-e2ers58/a-aasoesd" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-**Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [Stitcher](https://www.stitcher.com/show/1083770)
+**Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [RSS](https://anchor.fm/s/ef96e5fc/podcast/rss)
 
 
 In the first episode of Open Source for Researchers, hosts Arfon and Abby sit down with Eva Maxfield Brown to discuss Speakerbox, an open source speaker identification tool.
