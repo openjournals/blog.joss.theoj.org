@@ -8,7 +8,7 @@ category:
 
 <iframe src="https://podcasters.spotify.com/pod/show/josscast/embed/episodes/Dr--Taylor-James-Bell-on-Eureka-e2ersul/a-aasohms" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-**Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [Stitcher](https://www.stitcher.com/show/1083770)
+**Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [RSS](https://anchor.fm/s/ef96e5fc/podcast/rss)
 
 
 In this episode of Open Source for Researchers hosts Abby and Arfon explore the world of open source software in astronomy with Dr. Taylor James Bell, a BAER Institute postdoc at NASA Ames. Eureka! is an end-to-end pipeline designed for JWST (James Webb Space Telescope) time series observations. We chat about the motivations behind Eureka!, its unique features, and the democratization of exoplanet science.
