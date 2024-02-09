@@ -6,7 +6,7 @@ category:
 - josscast
 ---
 
-<iframe src="https://podcasters.spotify.com/pod/show/josscast/episodes/Studying-Superbugs--Juliette-Hayer-on-Baargin-e2fa787" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/josscast/embed/episodes/Studying-Superbugs--Juliette-Hayer-on-Baargin-e2fa787" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
 **Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [RSS](https://anchor.fm/s/ef96e5fc/podcast/rss)
