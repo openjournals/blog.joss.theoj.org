@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-02-19 00:00
+date: 2024-02-22 00:00
 title:  "JOSSCast #4: Applying ML to Quantum Monte Carlo simulations – Nicolas Renaud on QMCTorch"
 category:
 - josscast
