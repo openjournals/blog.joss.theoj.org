@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2024-03-21 00:00
-title:  "JOSSCast #6:Streamlining Molecular Dynamics – Marjan Albooyeh and Chris Jones on FlowerMD"
+title:  "JOSSCast #6: Streamlining Molecular Dynamics – Marjan Albooyeh and Chris Jones on FlowerMD"
 category:
 - josscast
 ---
 
-<iframe src="https://podcasters.spotify.com/pod/show/josscast/embed/episodes/Streamlining-Molecular-Dynamics--Marjan-Albooyeh-and-Chris-Jones-on-FlowerMD-e2hc06f" height=102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/josscast/embed/episodes/Streamlining-Molecular-Dynamics--Marjan-Albooyeh-and-Chris-Jones-on-FlowerMD-e2hc06f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 **Subscribe Now:** [Apple](https://podcasts.apple.com/ca/podcast/josscast-open-source-for-researchers/id1725931379), [Spotify](https://open.spotify.com/show/42YQ4O6sbz7ZDi8qbOiX5E), [YouTube](https://www.youtube.com/@JOSSCast), [RSS](https://anchor.fm/s/ef96e5fc/podcast/rss)
 
