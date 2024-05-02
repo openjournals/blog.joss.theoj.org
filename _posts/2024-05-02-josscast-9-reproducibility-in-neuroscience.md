@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-05-02 00:00
+date: 2024-05-02 00:00 -0400
 title:  "JOSSCast #9: Reproducibility in Neuroscience – Mats van Es on FieldTrip reproducescript"
 category:
 - josscast
