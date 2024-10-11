@@ -32,7 +32,7 @@ Applicants should have significant experience in open source software and softwa
 
 We are especially interested in recruiting editors in the following disciplines, although submissions from all disciplines are welcome:
 
-- Both Pure and Applied Mathematics
+- Pure and/or Applied Mathematics
 - Bioinformatics
 - Computational Chemistry
 - Computer Science
