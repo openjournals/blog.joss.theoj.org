@@ -8,7 +8,7 @@ category:
 
 Once again, we're looking to grow our editorial team at JOSS!
 
-Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled nearly 4500 submissions (~2700 published at the time of writing, 340 under review) and the demand from the community continues to be strong. JOSS now consistently publishes a little over one paper per day, and we see no sign of this demand dropping.
+Since our launch in [May 2016](https://www.arfon.org/announcing-the-journal-of-open-source-software), our [existing editorial team](http://joss.theoj.org/about#editorial_board) has handled nearly 4500 submissions (~2700 published at the time of writing, 340 under review) and the demand from the community continues to be strong. JOSS now consistently publishes 40-45 papers per month, and this is gradually increasing.
 
 New editors at JOSS are asked to make a minimum 1-year commitment, with additional years possible by mutual consent. As some of our existing editorial team are reaching the end of their term with JOSS, the time is right to bring on another cohort of editors.
 
