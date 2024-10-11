@@ -41,7 +41,8 @@ We are especially interested in recruiting editors in the following disciplines,
 - Geology
 - Image Processing
 - Language Processing
-- Physics and Engineering
+- Physics & Engineering: Energy Systems
+- Physics & Engineering: Fluid Dynamics
 - Remote Sensing
 
 The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia.
