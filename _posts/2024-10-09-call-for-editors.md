@@ -51,4 +51,4 @@ The JOSS editorial team has a diverse background and there is no requirement for
 
 The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Highly-ranked candidates will then have a short (~30 minute) phone call/video conference interview with the editor(s)-in-chief. Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team. You will get an onboarding “buddy” from the experienced editors to help you out during that time.
 
-_Dan Foreman-Mackey, Olivia Guest, Daniel S. Katz, Kevin M. Moerman, Kyle E. Niemeyer, Arfon M. Smith, Kristen Thyng_
+_Warrick Ball, Samuel Forbes, Olivia Guest, Daniel S. Katz, Kevin M. Moerman, Kyle E. Niemeyer, Arfon M. Smith, Kristen Thyng_
