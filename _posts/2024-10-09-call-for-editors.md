@@ -36,6 +36,7 @@ We are especially interested in recruiting editors in the following disciplines,
 - Bioinformatics
 - Computational Chemistry
 - Computer Science
+- Quantum Computing
 - Ecology
 - Economics
 - Geology
