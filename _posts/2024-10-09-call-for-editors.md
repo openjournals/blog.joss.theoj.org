@@ -44,7 +44,7 @@ The JOSS editorial team has a diverse background and there is no requirement for
 
 ### Expected level of committment 
 
-Editing for JOSS is a substantial committment, and we would encourage you to read our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html), and in particular our [expectations of editors](https://joss.readthedocs.io/en/latest/expectations.html). While the guide has a bunch more information, some things we think are particulatly important include 1) pay ongoing attention to the submissions they are handling (i.e., checking in on papers ~twice per week for a few minutes at a time), 2) responding in a timely fashion to invites to edit, and 3) contributing to the overall editorial team (e.g., participating in scope reviews, giving feedback to colleagues in Slack).
+Editing for JOSS is a substantial commitment, and we would encourage you to read our [editorial guide](https://joss.readthedocs.io/en/latest/editing.html), and in particular our [expectations of editors](https://joss.readthedocs.io/en/latest/expectations.html). While the guide has a bunch more information, some things we think are particularly important include 1) paying ongoing attention to the submissions they are handling (i.e., checking in on papers ~twice per week for a few minutes at a time), 2) responding in a timely fashion to invites to edit, and 3) contributing to the overall editorial team (e.g., participating in scope reviews, giving feedback to colleagues in Slack).
 
 ### Selection process
 
