@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-10-09 00:00
+date: 2024-10-29 00:00
 title:  "Call for editors"
 category:
 - announcements
