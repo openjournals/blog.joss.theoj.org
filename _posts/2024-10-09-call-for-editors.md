@@ -26,18 +26,21 @@ Applicants should have significant experience in open source software and softwa
 
 We are especially interested in recruiting editors in the following disciplines, although submissions from all disciplines are welcome:
 
-- Pure and/or Applied Mathematics
 - Bioinformatics
 - Computational Chemistry
 - Computer Science
-- Quantum Computing
 - Ecology
 - Economics
 - Geology
+- Geophysics including high-performance Computing
+- Geographic data science
 - Image Processing
+- Urban science
 - Language Processing
 - Physics & Engineering: Energy Systems
 - Physics & Engineering: Fluid Dynamics
+- Pure and/or Applied Mathematics
+- Quantum Computing
 - Remote Sensing
 
 The JOSS editorial team has a diverse background and there is no requirement for JOSS editors to be working in academia.
