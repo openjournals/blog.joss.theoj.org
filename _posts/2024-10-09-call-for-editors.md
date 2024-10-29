@@ -32,10 +32,10 @@ We are especially interested in recruiting editors in the following disciplines,
 - Ecology
 - Economics
 - Geology
-- Geophysics including high-performance Computing
-- Geographic data science
+- Geophysics including High-performance Computing
+- Geographic Data Science
 - Image Processing
-- Urban science
+- Urban Science
 - Language Processing
 - Physics & Engineering: Energy Systems
 - Physics & Engineering: Fluid Dynamics
@@ -57,7 +57,7 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 
 Firstly, we especially welcome applications from prospective editors who will contribute to the diversity (e.g., ethnic, gender, disciplinary, and geographical) of our board. 
 
-✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/SwNqHd3KYi1rwPMEA) by 9th November 2024. ✨✨✨
+✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/vVhAfb8kFrgkLUbV9) by 29th November 2024. ✨✨✨
 
 
 _Warrick Ball, Samuel Forbes, Olivia Guest, Daniel S. Katz, Kevin M. Moerman, Kyle E. Niemeyer, Arfon M. Smith, Kristen Thyng_
