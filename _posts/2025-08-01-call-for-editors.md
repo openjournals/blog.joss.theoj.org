@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-01 00:00
-title:  "Call for editors"
+title: "Call for editors"
 category:
 - announcements
 ---
@@ -39,7 +39,7 @@ Editing for JOSS is a substantial commitment, and we would encourage you to read
 
 ### Selection process
 
-The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Highly-ranked candidates will have a ~60 minute video meeting with the relevant editor(s)-in-chief. Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team. You will get an onboarding "buddy" from the experienced editors to help you out during that time.
+The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will review your applications and make their recommendations. Highly-ranked candidates will have a ~60-minute video meeting with the relevant editor(s)-in-chief. Successful candidates will then join the JOSS editorial team for a probational period of 3 months before becoming a full member of the editorial team. You will get an onboarding "buddy" from the experienced editors to help you out during that time.
 
 ## How to apply
 
