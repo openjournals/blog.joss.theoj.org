@@ -2,6 +2,7 @@
 layout: post
 date: 2026-05-05 00:00
 title: "JOSS is seeking a new Editor-in-Chief"
+description: "After a decade of building and running JOSS, our founding Editor-in-Chief is stepping down. We're seeking a new EiC to lead editorial direction for the Journal of Open Source Software."
 category:
 - announcements
 ---
