@@ -26,12 +26,12 @@ Applicants should have significant experience in open source software and softwa
 
 We are especially interested in recruiting editors in the following disciplines, although submissions from all disciplines are welcome:
 
-- Astronomy, astrophysics and space science
-- Bioinformatics and biomedical science
-- Ecological and earth sciences
+- Astronomy, astrophysics and space science, particularly in XXXX
+- Bioinformatics and biomedical science, particularly in neuroscience and biomedicine including disease modeling
+- Ecological and earth sciences, particularly in hydrology, remote sensing, and satellite data
 - Mathematics
-- Physics and engineering, particularly energy systems, sustainability, nuclear sciences, and manufacturing
-- Social, behavioural and cognitive sciences, including linguistics and music
+- Physics and engineering, particularly in XXXX
+- Social, behavioural and cognitive sciences, particularly in economics and geospatial
 
 The JOSS editorial team has a diverse background, and we especially welcome applications from prospective editors who will improve to the its diversity (e.g., ethnic, gender, disciplinary, and geographical). There is no requirement for JOSS editors to be working in academia.
 
