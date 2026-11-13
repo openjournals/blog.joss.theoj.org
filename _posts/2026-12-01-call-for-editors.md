@@ -45,6 +45,6 @@ The [JOSS editorial team](http://joss.theoj.org/about#editorial_board) will revi
 
 ## How to apply
 
-✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/Uh55LGwuNmA7UymMA) by 15th December 2026. ✨✨✨
+✨✨✨ If you're interested in applying please fill in this [short form](https://forms.gle/pr7CHiFXkM1qAZAd9) by 15th December 2026. ✨✨✨
 
 _Warrick Ball, Matthew Feickert, Samuel Forbes, Daniel S. Katz, Rachel Kurchin, Kevin M. Moerman, Kyle E. Niemeyer, Arfon M. Smith, Kristen Thyng, Chris Vernon_
