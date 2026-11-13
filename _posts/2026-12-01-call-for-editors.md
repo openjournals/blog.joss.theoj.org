@@ -26,7 +26,7 @@ Applicants should have significant experience in open source software and softwa
 
 We are especially interested in recruiting editors in the following disciplines, although submissions from all disciplines are welcome:
 
-- Astronomy, astrophysics and space science, particularly in XXXX
+- Astronomy, astrophysics and space science, in all topics and especially in exoplanets
 - Bioinformatics and biomedical science, particularly in neuroscience and biomedicine including disease modeling
 - Ecological and earth sciences, particularly in hydrology, remote sensing, and satellite data
 - Mathematics
