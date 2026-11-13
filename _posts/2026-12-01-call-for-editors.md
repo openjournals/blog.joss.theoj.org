@@ -33,7 +33,7 @@ We are especially interested in recruiting editors in the following disciplines,
 - Physics and engineering, particularly in particle physics, plasma physics / fusion, robotics / “physical AI”, and energy systems
 - Social, behavioural and cognitive sciences, particularly in economics and geospatial
 
-The JOSS editorial team has a diverse background, and we especially welcome applications from prospective editors who will improve to the its diversity (e.g., ethnic, gender, disciplinary, and geographical). There is no requirement for JOSS editors to be working in academia.
+The JOSS editorial team has a diverse background, and we especially welcome applications from prospective editors who will improve its diversity (e.g., ethnic, gender, disciplinary, and geographical). There is no requirement for JOSS editors to be working in academia.
 
 ### Expected level of commitment
 
